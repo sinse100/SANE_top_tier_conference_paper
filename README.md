@@ -74,6 +74,7 @@
   + Embedded Security in Cars (ESCAR)
   + Conference on Knowledge Discovery and Data Mining (KDD)
   + Threat Modeling Connect (ThreatModCon)
+  + CODE BLUE
 
 ## NDSS
 ### 2025
