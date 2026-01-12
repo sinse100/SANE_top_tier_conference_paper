@@ -56,25 +56,24 @@
 + Symposium on Principles of Distributed Computing (PODC)
 + International Conference on the Foundations of Software Engineering (FSE)
 + International Symposium on Formal Methods (FM)
-+ etc
-  + AAAI Conference on Artificial Intelligence (AAAI)
-  + Military Communications Conference (MILCOM)
-  + NASA Formal Methods Symposium (NFM)
-  + VirusBulletin
-  + International Conference on Common Criteria (ICCC)
-  + Symposium on Vehicle Security and Privacy (VehicleSec)
-  + International Conference on Cloud Computing (CLOUD)
-  + Workshop on the Security of Space and Satellite Systems (SpaceSec)
-  + USENIX Symposium on Networked Systems Design and Implementation (NSDI)
-  + Secure Development Conference (SecDev)
-  + Digital Forensic Research Workshop (DFRWS)
-  + Conference on Neural Information Processing Systems (NeurIPS)
-  + Symposium on Operating Systems Principles (SOSP)
-  + Conference on Security and Privacy in Wireless and Mobile Networks (WiSec)
-  + Embedded Security in Cars (ESCAR)
-  + Conference on Knowledge Discovery and Data Mining (KDD)
-  + Threat Modeling Connect (ThreatModCon)
-  + CODE BLUE
++ AAAI Conference on Artificial Intelligence (AAAI)
++ Military Communications Conference (MILCOM)
++ NASA Formal Methods Symposium (NFM)
++ VirusBulletin
++ International Conference on Common Criteria (ICCC)
++ Symposium on Vehicle Security and Privacy (VehicleSec)
++ International Conference on Cloud Computing (CLOUD)
++ Workshop on the Security of Space and Satellite Systems (SpaceSec)
++ USENIX Symposium on Networked Systems Design and Implementation (NSDI)
++ Secure Development Conference (SecDev)
++ Digital Forensic Research Workshop (DFRWS)
++ Conference on Neural Information Processing Systems (NeurIPS)
++ Symposium on Operating Systems Principles (SOSP)
++ Conference on Security and Privacy in Wireless and Mobile Networks (WiSec)
++ Embedded Security in Cars (ESCAR)
++ Conference on Knowledge Discovery and Data Mining (KDD)
++ Threat Modeling Connect (ThreatModCon)
++ CODE BLUE
 
 ## NDSS
 ### 2025
