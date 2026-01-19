@@ -15,6 +15,7 @@
 + IEEE Transactions on Software Engineering (TSE)
 + Empirical Software Engineering (EMSE)
 + IEEE Transactions on Dependable and Secure Computing (TDSC)
++ Blockchain: Research and Applications
 
 # List of Top Tier Conference
 + Financial Cryptography and Data Security (FC)
