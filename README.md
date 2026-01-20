@@ -14,6 +14,7 @@
 + Gavin Wood
 + Silvio Micali
 + Charles Hoskinson
++ Victor Shoup
 
 # List of Top Tier Journal
 + Distributed Ledger Technologies: Research and Practice
