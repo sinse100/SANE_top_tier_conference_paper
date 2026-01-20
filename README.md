@@ -1,4 +1,4 @@
-# smart_contract_blockchain_paper
+<img width="3" height="1" alt="image" src="https://github.com/user-attachments/assets/a9f04b6c-5ba2-40b7-952c-48bd7bd9e07b" /># smart_contract_blockchain_paper
 
 # 출처
 + [연구실 페이스북](https://www.facebook.com/groups/141562709261263)
@@ -7,6 +7,12 @@
 + 교수님 강의자료
 + [BK21 CS 국제우수학술대회](https://gist.github.com/Pusnow/6eb933355b5cb8d31ef1abcb3c3e1206)
 + [서울대학교 공과대학 컴퓨터공학부 Top Conference List](https://cse.snu.ac.kr/research/top-conference-list)
+
+
+# Blockchain & Smart Contract 관련 유명인사
++ [Vitalik Buterin](https://scholar.google.com/citations?view_op=search_authors&mauthors=vitalik+buterin&hl=ko&oi=ao)
++ Gavin Wood
++ Silvio Micali
 
 # List of Top Tier Journal
 + Distributed Ledger Technologies: Research and Practice
