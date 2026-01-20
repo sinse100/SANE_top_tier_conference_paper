@@ -1,4 +1,4 @@
-<img width="3" height="1" alt="image" src="https://github.com/user-attachments/assets/a9f04b6c-5ba2-40b7-952c-48bd7bd9e07b" /># smart_contract_blockchain_paper
+# smart_contract_blockchain_paper
 
 # 출처
 + [연구실 페이스북](https://www.facebook.com/groups/141562709261263)
@@ -15,6 +15,7 @@
 + Silvio Micali
 + Charles Hoskinson
 + Victor Shoup
++ Hal Finney
 
 # List of Top Tier Journal
 + Distributed Ledger Technologies: Research and Practice
