@@ -13,6 +13,7 @@
 + [Vitalik Buterin](https://scholar.google.com/citations?view_op=search_authors&mauthors=vitalik+buterin&hl=ko&oi=ao)
 + Gavin Wood
 + Silvio Micali
++ Charles Hoskinson
 
 # List of Top Tier Journal
 + Distributed Ledger Technologies: Research and Practice
