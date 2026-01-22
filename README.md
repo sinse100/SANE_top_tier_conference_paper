@@ -86,6 +86,7 @@
 + CODE BLUE
 + International Conference on Learning Representations (ICLR)
 + International Conference on Machine Learning (ICML)
++ International Conference on Object-Oriented Programming Systems, Languages, and Applications (OOPSLA)
 
 ## NDSS
 ### 2025
