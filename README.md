@@ -88,6 +88,7 @@
 + International Conference on Software Analysis, Evolution and Reengineering (SANER)
 + SIGMOD Conference (SIGMOD)
 
+# Blockchain & Smart Contract Paper
 ## NDSS
 ### 2025
 + The Forking Way: When TEEs Meet Consensus
@@ -330,10 +331,79 @@
 + [security/privacy] Automated Attack Synthesis for Constant Product Market Makers
 + [security/privacy] Copy-and-Paste? Identifying EVM-Inequivalent Code Smells in Multi-chain Reuse Contracts
 
-
 ## ETC
 + Bitcoin: A Peer-to-Peer Electronic Cash System
 + Ethereum Whitepaper
 + The Byzantine Generals Problem
 + Proof of history: what is it good for?
 + The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments
+
+
+# Threat Modeling Paper
+
+## ISSTA
+### 2026
+### 2025
+### 2024
+### 2023
+### 2022
+### 2021
+
+
+## ASE
+### 2026
+### 2025
+### 2024
+### 2023
+### 2022
+### 2021
+
+## ICSE
+### 2026
+### 2025
+### 2024
+### 2023
+### 2022
+### 2021
+
+## FSE
+### 2026
+### 2025
+### 2024
+### 2023
+### 2022
+### 2021
+
+## SecDev
+### 2026
+### 2025
+### 2024
+### 2023
+### 2022
+### 2021
+
+## MODELS
+### 2026
+### 2025
+### 2024
+### 2023
+### 2022
+### 2021
+
+## SANER
+### 2026
+### 2025
+### 2024
+### 2023
+### 2022
+### 2021
+
+
+## ThreatModCon
+### 2026
+### 2025
+### 2024
+### 2023
+### 2022
+### 2021
+
