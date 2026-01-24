@@ -1,5 +1,3 @@
-# smart_contract_blockchain_paper
-
 # 출처
 + [연구실 페이스북](https://www.facebook.com/groups/141562709261263)
 + [교수님 페이스북]()
