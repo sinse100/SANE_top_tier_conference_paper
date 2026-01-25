@@ -88,6 +88,7 @@
 + International Conference on Software Analysis, Evolution and Reengineering (SANER)
 + SIGMOD Conference (SIGMOD)
 + International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (MobiHoc)
++ International Conference on Computer-Aided Verification (CAV)
 
 # Blockchain & Smart Contract Paper
 ## NDSS
