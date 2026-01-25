@@ -426,3 +426,7 @@
 + CONCORD: A DSL for Generating Simplified and Scalable Graph-Based Code Representations
 
 ### 2025
+
+## OOPLSA
+### 2025
++ Integrating Resource Analyses via Resource Decomposition
