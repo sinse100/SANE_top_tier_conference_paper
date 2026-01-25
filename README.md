@@ -407,6 +407,10 @@
 ## MODELS
 ### 2026
 ### 2025
++ A Metamodel for Reengineering CI/CD PipelinesFT
++ A Method for Model-Driven Engineering of Digital Twins in Manufacturing
++ A Model Cleansing Pipeline for Model-driven Engineering: Mitigating the Garbage In, Garbage Out Problem for Open Model Repositories
+
 ### 2024
 ### 2023
 ### 2022
@@ -417,6 +421,7 @@
 + VulTerminator: Bringing Back Template-Based Automated Repair for Fixing Java Vulnerabilities
 + TestForge: A Benchmarking Framework for LLM-Based Test Case Generation
 + Requirement Formalization using Large Language Models
++ Going from the Past back to the Future: Incrementally Reconstructing a Metamodel History
 + Does one CI-ze fit all? How Continuous Integration Performs in Different Contexts
 + CONCORD: A DSL for Generating Simplified and Scalable Graph-Based Code Representations
 
