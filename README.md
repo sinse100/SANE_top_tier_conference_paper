@@ -358,6 +358,10 @@
 + Compositional Abstraction for Timed Systems with Broadcast Synchronization
 + Raven: An SMT-Based Concurrency Verifier
 + QSM-Cutoff: Systematic Derivation of Quantified Cutoff Formulas for Distributed Protocols 
+
+## SIGMOD
+### 2025
++ Fast Indexing for Temporal Information Retrieval
  
 ## ISSTA
 ### 2026
