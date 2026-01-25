@@ -414,4 +414,10 @@
 
 ## SANER
 ### 2026
++ VulTerminator: Bringing Back Template-Based Automated Repair for Fixing Java Vulnerabilities
++ TestForge: A Benchmarking Framework for LLM-Based Test Case Generation
++ Requirement Formalization using Large Language Models
++ Does one CI-ze fit all? How Continuous Integration Performs in Different Contexts
++ CONCORD: A DSL for Generating Simplified and Scalable Graph-Based Code Representations
+
 ### 2025
