@@ -430,3 +430,4 @@
 ## OOPLSA
 ### 2025
 + Integrating Resource Analyses via Resource Decomposition
++ On the Impact of Formal Verification on Software Development
