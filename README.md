@@ -342,6 +342,22 @@
 
 # Threat Modeling Paper
 
+## CAV
+### 2025
++ Relational Hoare Logic for Realistically Modelled Machine Code
++ Full LTL Synthesis over Infinite-state Arenas
++ Approximating Fixpoints of Approximated Functions
++ Counter Example Guided Reactive Synthesis for LTL Modulo Theories
++ Approximate Probabilistic Bisimulation for Continuous-Time Markov Chains
++ Efficient Probabilistic Model Checking for Relational Reachability
++ Property Directed Reachability with Extended Resolution
++ Infinite-state Liveness Checking with rlive
++ Scaling GR(1) Synthesis via a Compositional Framework for LTL Discrete Event Control
++ Automatic Synthesis of Smooth Infinite Horizon Paths Satisfying Linear Temporal Logic Specifications
++ Compositional Abstraction for Timed Systems with Broadcast Synchronization
++ Raven: An SMT-Based Concurrency Verifier
++ QSM-Cutoff: Systematic Derivation of Quantified Cutoff Formulas for Distributed Protocols 
+ 
 ## ISSTA
 ### 2026
 ### 2025
@@ -394,24 +410,3 @@
 ## SANER
 ### 2026
 ### 2025
-### 2024
-### 2023
-### 2022
-### 2021
-
-## PETS
-### 2026
-### 2025
-### 2024
-### 2023
-### 2022
-### 2021
-
-## ThreatModCon
-### 2026
-### 2025
-### 2024
-### 2023
-### 2022
-### 2021
-
