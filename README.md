@@ -384,7 +384,7 @@
 ### 2023
 ### 2022
 ### 2021
-+ [Research Track] Automated Testing for Machine Translation via Constituency Invariance
++ [Research Track] Automated Repair for Size-Based Inaccessibility Issues in Mobile Apps
 + [Tool Demonstration Track] BeAFix: An Automated Repair Tool for Faulty Alloy Models
 
 ## ICSE
