@@ -384,6 +384,7 @@
 ### 2023
 ### 2022
 ### 2021
++ [Tool Demonstration Track] BeAFix: An Automated Repair Tool for Faulty Alloy Models
 
 ## ICSE
 ### 2026
