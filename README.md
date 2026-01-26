@@ -92,6 +92,7 @@
 + European Conference on Computer Systems (EuroSys)
 + Annual Conference of the ACM Special Interest Group on Data Communication (SIGCOMM)
 + Conference on Programming Language Design and Implementation (PLDI)
++ International Requirements Engineering Conference (RE)
 
 # Blockchain & Smart Contract Paper
 ## NDSS
