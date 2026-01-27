@@ -424,7 +424,6 @@
 + A Metamodel for Reengineering CI/CD Pipelines
 + A Method for Model-Driven Engineering of Digital Twins in Manufacturing
 + A Model Cleansing Pipeline for Model-driven Engineering: Mitigating the Garbage In, Garbage Out Problem for Open Model Repositories
-
 ### 2024
 ### 2023
 ### 2022
@@ -438,10 +437,14 @@
 + Going from the Past back to the Future: Incrementally Reconstructing a Metamodel History
 + Does one CI-ze fit all? How Continuous Integration Performs in Different Contexts
 + CONCORD: A DSL for Generating Simplified and Scalable Graph-Based Code Representations
-
 ### 2025
 
 ## OOPLSA
 ### 2025
 + Integrating Resource Analyses via Resource Decomposition
 + On the Impact of Formal Verification on Software Development
+
+## CODASPY
+### 2026
+### 2025
++ [Dataset/Tool Paper] Enhanced Threat Modeling and Attack Scenario Generation for OAuth 2.0 Implementations
