@@ -18,6 +18,8 @@
 # Threat Modeling 관련 유명인사
 + Adam Shostack
 + Bruce Schneier
++ Loren Kohnfelder (Founder of STRIDE)
++ Mina Deng (Founder of LINDDUN)
 
 # List of Top Tier Journal
 + Distributed Ledger Technologies: Research and Practice
