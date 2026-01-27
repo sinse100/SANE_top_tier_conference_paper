@@ -8,12 +8,13 @@
 
 
 # Blockchain & Smart Contract 관련 유명인사
-+ [Vitalik Buterin](https://scholar.google.com/citations?view_op=search_authors&mauthors=vitalik+buterin&hl=ko&oi=ao)
-+ Gavin Wood
-+ Silvio Micali
-+ Charles Hoskinson
++ [Vitalik Buterin](https://scholar.google.com/citations?view_op=search_authors&mauthors=vitalik+buterin&hl=ko&oi=ao) (Co-Founder of Ethereum)
++ Gavin Wood (Co-Founder of Ethereum)
++ Silvio Micali (Co-Founder of ZKP, Turing Awards Winner, Founder of Algorand)
++ Charles Hoskinson (Founder of Cardano)
 + Victor Shoup
-+ Hal Finney
++ Hal Finney (Co-Developer of Bitcoin)
++ Shafi Goldwasser (Co-Founder of ZKP - Turing Awards Winner)
 
 # Threat Modeling 관련 유명인사
 + Adam Shostack
