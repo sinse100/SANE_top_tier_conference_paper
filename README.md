@@ -14,7 +14,7 @@
 + Charles Hoskinson (Founder of Cardano)
 + Victor Shoup
 + Hal Finney (Co-Developer of Bitcoin)
-+ Shafi Goldwasser (Co-Founder of ZKP - Turing Awards Winner)
++ Shafi Goldwasser (Co-Founder of ZKP, Turing Awards Winner)
 
 # Threat Modeling 관련 유명인사
 + Adam Shostack
