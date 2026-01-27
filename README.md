@@ -447,4 +447,5 @@
 ## CODASPY
 ### 2026
 ### 2025
++ [Research Paper] TerrARA: Automated Security Threat Modeling for Infrastructure as Code
 + [Dataset/Tool Paper] Enhanced Threat Modeling and Attack Scenario Generation for OAuth 2.0 Implementations
