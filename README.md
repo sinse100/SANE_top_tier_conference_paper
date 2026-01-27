@@ -15,6 +15,10 @@
 + Victor Shoup
 + Hal Finney
 
+# Threat Modeling 관련 유명인사
++ Adam Shostack
++ Bruce Schneier
+
 # List of Top Tier Journal
 + Distributed Ledger Technologies: Research and Practice
 + IEEE Transactions on Information Forensics and Security (TIFS)
