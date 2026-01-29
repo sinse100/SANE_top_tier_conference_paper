@@ -209,6 +209,8 @@
 + ScaleCirc: Scaling the Analysis over Circom Circuits
 
 ## FC
+### 2026
++ Compliance as a Trust Metric
 ### 2025
 + A Formally Verified Lightning Network
 + Strengthening Multi-hop Channels via Strategic Mesh Connections
