@@ -473,3 +473,7 @@
 ## IEEE S&P
 ### 2025
 + SoK: A Framework and Guide for Human-Centered Threat Modeling in Security and Privacy Research
+
+## IEEE TSE
+### 2025
++ Privacy Impact Tree Analysis (PITA): A Tree-Based Privacy Threat Modeling Approach
