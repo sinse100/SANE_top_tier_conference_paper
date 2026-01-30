@@ -481,3 +481,7 @@
 ## IEEE TSE
 ### 2025
 + Privacy Impact Tree Analysis (PITA): A Tree-Based Privacy Threat Modeling Approach
+
+## MODELS
+### 2025
++ [Poster] Model Based STPA for Assisted Driving Functions
