@@ -469,3 +469,7 @@
 ## UESNIX Security
 ### 2025
 + “Threat modeling is very formal, it’s very technical, and also very hard to do correctly”: Investigating Threat Modeling Practices in Open-Source Software Projects
+
+## IEEE S&P
+### 2025
++ SoK: A Framework and Guide for Human-Centered Threat Modeling in Security and Privacy Research
