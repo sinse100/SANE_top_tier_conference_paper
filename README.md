@@ -474,6 +474,10 @@
 ### 2025
 + SoK: A Framework and Guide for Human-Centered Threat Modeling in Security and Privacy Research
 
+## DSN
+### 2023
++ PASTA: Pragmatic Automated System-Theoretic Process Analysis
+
 ## IEEE TSE
 ### 2025
 + Privacy Impact Tree Analysis (PITA): A Tree-Based Privacy Threat Modeling Approach
