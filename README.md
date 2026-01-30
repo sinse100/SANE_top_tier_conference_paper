@@ -461,3 +461,7 @@
 ### 2026
 + Towards automated threat modeling for space systems via SPARTA matrix
 ### 2025
+
+## ESORICS
+### 2023
++ Check for updates Threat Analysis in Dairy Farming 4.0
