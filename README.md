@@ -451,6 +451,11 @@
 ### 2025
 + [Research Paper] TerrARA: Automated Security Threat Modeling for Infrastructure as Code
 + [Dataset/Tool Paper] Enhanced Threat Modeling and Attack Scenario Generation for OAuth 2.0 Implementations
+### 2024
+### 2023
++ [Poster] The Design of an Ontology for ATT&CK and its Application to Cybersecurity
+### 2022
++ [Research Paper] Security Analysis of IoT Frameworks using Static Taint Analysis
 
 ## SpaceSec
 ### 2026
