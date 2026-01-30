@@ -358,23 +358,23 @@
 
 ## CAV
 ### 2025
-+ Relational Hoare Logic for Realistically Modelled Machine Code
-+ Full LTL Synthesis over Infinite-state Arenas
-+ Approximating Fixpoints of Approximated Functions
-+ Counter Example Guided Reactive Synthesis for LTL Modulo Theories
-+ Approximate Probabilistic Bisimulation for Continuous-Time Markov Chains
-+ Efficient Probabilistic Model Checking for Relational Reachability
-+ Property Directed Reachability with Extended Resolution
-+ Infinite-state Liveness Checking with rlive
-+ Scaling GR(1) Synthesis via a Compositional Framework for LTL Discrete Event Control
-+ Automatic Synthesis of Smooth Infinite Horizon Paths Satisfying Linear Temporal Logic Specifications
-+ Compositional Abstraction for Timed Systems with Broadcast Synchronization
-+ Raven: An SMT-Based Concurrency Verifier
-+ QSM-Cutoff: Systematic Derivation of Quantified Cutoff Formulas for Distributed Protocols 
++ Relational Hoare Logic for Realistically Modelled Machine Code [Peripheral]
++ Full LTL Synthesis over Infinite-state Arenas [Peripheral]
++ Approximating Fixpoints of Approximated Functions [Peripheral]
++ Counter Example Guided Reactive Synthesis for LTL Modulo Theories [Peripheral]
++ Approximate Probabilistic Bisimulation for Continuous-Time Markov Chains [Peripheral]
++ Efficient Probabilistic Model Checking for Relational Reachability [Peripheral]
++ Property Directed Reachability with Extended Resolution [Peripheral]
++ Infinite-state Liveness Checking with rlive [Peripheral]
++ Scaling GR(1) Synthesis via a Compositional Framework for LTL Discrete Event Control [Peripheral]
++ Automatic Synthesis of Smooth Infinite Horizon Paths Satisfying Linear Temporal Logic Specifications [Peripheral]
++ Compositional Abstraction for Timed Systems with Broadcast Synchronization [Peripheral]
++ Raven: An SMT-Based Concurrency Verifier [Peripheral]
++ QSM-Cutoff: Systematic Derivation of Quantified Cutoff Formulas for Distributed Protocols [Peripheral]
 
 ## SIGMOD
 ### 2025
-+ Fast Indexing for Temporal Information Retrieval
++ Fast Indexing for Temporal Information Retrieval [Peripheral]
  
 ## ISSTA
 ### 2026
@@ -393,8 +393,8 @@
 ### 2023
 ### 2022
 ### 2021
-+ [Research Track] Automated Repair for Size-Based Inaccessibility Issues in Mobile Apps
-+ [Tool Demonstration Track] BeAFix: An Automated Repair Tool for Faulty Alloy Models
++ [Research Track] Automated Repair for Size-Based Inaccessibility Issues in Mobile Apps [Peripheral]
++ [Tool Demonstration Track] BeAFix: An Automated Repair Tool for Faulty Alloy Models [Peripheral]
 
 ## ICSE
 ### 2026
@@ -423,9 +423,9 @@
 ## MODELS
 ### 2026
 ### 2025
-+ A Metamodel for Reengineering CI/CD Pipelines
-+ A Method for Model-Driven Engineering of Digital Twins in Manufacturing
-+ A Model Cleansing Pipeline for Model-driven Engineering: Mitigating the Garbage In, Garbage Out Problem for Open Model Repositories
++ A Metamodel for Reengineering CI/CD Pipelines [Peripheral]
++ A Method for Model-Driven Engineering of Digital Twins in Manufacturing [Peripheral]
++ A Model Cleansing Pipeline for Model-driven Engineering: Mitigating the Garbage In, Garbage Out Problem for Open Model Repositories [Peripheral]
 ### 2024
 ### 2023
 ### 2022
@@ -433,20 +433,20 @@
 
 ## SANER
 ### 2026
-+ VulTerminator: Bringing Back Template-Based Automated Repair for Fixing Java Vulnerabilities
-+ TestForge: A Benchmarking Framework for LLM-Based Test Case Generation
-+ Requirement Formalization using Large Language Models
-+ Going from the Past back to the Future: Incrementally Reconstructing a Metamodel History
-+ Does one CI-ze fit all? How Continuous Integration Performs in Different Contexts
-+ CONCORD: A DSL for Generating Simplified and Scalable Graph-Based Code Representations
++ VulTerminator: Bringing Back Template-Based Automated Repair for Fixing Java Vulnerabilities [Peripheral]
++ TestForge: A Benchmarking Framework for LLM-Based Test Case Generation [Peripheral]
++ Requirement Formalization using Large Language Models [Peripheral]
++ Going from the Past back to the Future: Incrementally Reconstructing a Metamodel History [Peripheral]
++ Does one CI-ze fit all? How Continuous Integration Performs in Different Contexts [Peripheral]
++ CONCORD: A DSL for Generating Simplified and Scalable Graph-Based Code Representations [Peripheral]
 ### 2025
 ### 2024
 + How Dataflow Diagrams Impact Software Security Analysis: an Empirical Experiment
 
 ## OOPLSA
 ### 2025
-+ Integrating Resource Analyses via Resource Decomposition
-+ On the Impact of Formal Verification on Software Development
++ Integrating Resource Analyses via Resource Decomposition [Peripheral]
++ On the Impact of Formal Verification on Software Development [Peripheral]
 
 ## CODASPY
 ### 2026
@@ -455,9 +455,9 @@
 + [Dataset/Tool Paper] Enhanced Threat Modeling and Attack Scenario Generation for OAuth 2.0 Implementations
 ### 2024
 ### 2023
-+ [Poster] The Design of an Ontology for ATT&CK and its Application to Cybersecurity
++ [Poster] The Design of an Ontology for ATT&CK and its Application to Cybersecurity [Peripheral]
 ### 2022
-+ [Research Paper] Security Analysis of IoT Frameworks using Static Taint Analysis
++ [Research Paper] Security Analysis of IoT Frameworks using Static Taint Analysis [Peripheral]
 
 ## SpaceSec
 ### 2026
