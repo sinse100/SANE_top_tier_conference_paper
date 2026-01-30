@@ -463,5 +463,3 @@
 ### 2025
 
 ## ESORICS
-### 2023
-+ Check for updates Threat Analysis in Dairy Farming 4.0
