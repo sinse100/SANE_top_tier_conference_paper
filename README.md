@@ -465,6 +465,7 @@
 + Expressive and Systematic Risk Assessments with Instance-Centric Threat Models
 ### 2022
 + A user-centric threat model and repository for cyber attacks
++ Mitigation lost in translation: leveraging threat information to improve privacy solution selection
 
 ## IEEE TSE
 ### 2025
