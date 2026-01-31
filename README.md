@@ -481,6 +481,12 @@
 ### 2023
 + PASTA: Pragmatic Automated System-Theoretic Process Analysis
 
+## SOUPS
+### 2024
++ Threat modeling state of practice in Dutch organizations
+
 ## IEEE TSE
 ### 2025
 + Privacy Impact Tree Analysis (PITA): A Tree-Based Privacy Threat Modeling Approach
+
+
