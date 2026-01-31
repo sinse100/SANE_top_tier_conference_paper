@@ -452,6 +452,10 @@
 ### 2023
 + Models of Applied Privacy (MAP): A Persona Based Approach to Threat Modeling
 
+PETS
+### 2023
++ Privacy Property Graph: Towards Automated Privacy Threat Modeling via Static Graph-based Analysis
+
 ## IEEE TSE
 ### 2025
 + Privacy Impact Tree Analysis (PITA): A Tree-Based Privacy Threat Modeling Approach
