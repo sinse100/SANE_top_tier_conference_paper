@@ -355,26 +355,6 @@
 
 
 # Threat Modeling Paper
-
-## CAV
-### 2025
-+ Relational Hoare Logic for Realistically Modelled Machine Code [Peripheral]
-+ Full LTL Synthesis over Infinite-state Arenas [Peripheral]
-+ Approximating Fixpoints of Approximated Functions [Peripheral]
-+ Counter Example Guided Reactive Synthesis for LTL Modulo Theories [Peripheral]
-+ Approximate Probabilistic Bisimulation for Continuous-Time Markov Chains [Peripheral]
-+ Efficient Probabilistic Model Checking for Relational Reachability [Peripheral]
-+ Property Directed Reachability with Extended Resolution [Peripheral]
-+ Infinite-state Liveness Checking with rlive [Peripheral]
-+ Scaling GR(1) Synthesis via a Compositional Framework for LTL Discrete Event Control [Peripheral]
-+ Automatic Synthesis of Smooth Infinite Horizon Paths Satisfying Linear Temporal Logic Specifications [Peripheral]
-+ Compositional Abstraction for Timed Systems with Broadcast Synchronization [Peripheral]
-+ Raven: An SMT-Based Concurrency Verifier [Peripheral]
-+ QSM-Cutoff: Systematic Derivation of Quantified Cutoff Formulas for Distributed Protocols [Peripheral]
-
-## SIGMOD
-### 2025
-+ Fast Indexing for Temporal Information Retrieval [Peripheral]
  
 ## ISSTA
 ### 2026
