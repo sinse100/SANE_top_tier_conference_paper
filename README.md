@@ -485,6 +485,10 @@
 ### 2024
 + Threat modeling state of practice in Dutch organizations
 
+## CHI
+### 2023
++ Models of Applied Privacy (MAP): A Persona Based Approach to Threat Modeling
+
 ## IEEE TSE
 ### 2025
 + Privacy Impact Tree Analysis (PITA): A Tree-Based Privacy Threat Modeling Approach
