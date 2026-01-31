@@ -31,6 +31,7 @@
 + IEEE Transactions on Dependable and Secure Computing (TDSC)
 + IEEE Transactions on Network Science and Engineering (TNSE)
 + IEEE Transactions on Parallel and Distributed Systems (TPDS)
++ IEEE Transactions on Robotics (T-RO)
 
 # List of Top Tier Conference
 + Financial Cryptography and Data Security (FC)
