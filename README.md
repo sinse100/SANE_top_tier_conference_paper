@@ -397,6 +397,7 @@
 ### 2024
 + From automation to CI/CD: a comparative evaluation of threat modeling tools
 ### 2023
++ Security and Privacy Threat Analysis for Solid
 ### 2022
 ### 2021
 
