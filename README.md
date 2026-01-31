@@ -459,6 +459,8 @@
 + Privacy Property Graph: Towards Automated Privacy Threat Modeling via Static Graph-based Analysis
 
 ## SAC
+### 2023
++ Expressive and Systematic Risk Assessments with Instance-Centric Threat Models
 ### 2022
 + A user-centric threat model and repository for cyber attacks
 
