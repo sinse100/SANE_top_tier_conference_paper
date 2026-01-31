@@ -106,7 +106,6 @@
 + Fundamental Approaches to Software Engineering (FASE)
 + International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS)
 + European Symposium on Programming (ESOP)
-+ 
 
 # Blockchain & Smart Contract Paper
 ## NDSS
