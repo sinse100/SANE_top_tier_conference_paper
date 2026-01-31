@@ -426,6 +426,7 @@
 + A Metamodel for Reengineering CI/CD Pipelines [Peripheral]
 + A Method for Model-Driven Engineering of Digital Twins in Manufacturing [Peripheral]
 + A Model Cleansing Pipeline for Model-driven Engineering: Mitigating the Garbage In, Garbage Out Problem for Open Model Repositories [Peripheral]
++ [Poster] Model Based STPA for Assisted Driving Functions
 ### 2024
 ### 2023
 ### 2022
@@ -481,7 +482,3 @@
 ## IEEE TSE
 ### 2025
 + Privacy Impact Tree Analysis (PITA): A Tree-Based Privacy Threat Modeling Approach
-
-## MODELS
-### 2025
-+ [Poster] Model Based STPA for Assisted Driving Functions
