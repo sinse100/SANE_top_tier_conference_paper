@@ -394,6 +394,7 @@
 ### 2026
 ### 2025
 ### 2024
++ From automation to CI/CD: a comparative evaluation of threat modeling tools
 ### 2023
 ### 2022
 ### 2021
