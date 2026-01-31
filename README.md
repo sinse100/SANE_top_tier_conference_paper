@@ -452,7 +452,7 @@
 ### 2023
 + Models of Applied Privacy (MAP): A Persona Based Approach to Threat Modeling
 
-PETS
+## PETS
 ### 2023
 + Privacy Property Graph: Towards Automated Privacy Threat Modeling via Static Graph-based Analysis
 
