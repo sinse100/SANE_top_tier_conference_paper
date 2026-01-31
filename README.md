@@ -441,7 +441,7 @@
 ### 2024
 + "There are rabbit holes I want to go down that I'm not allowed to go down": An Investigation of Security Expert Threat Modeling Practices for Medical Devices
 
-## IEEE S&P
+## S&P
 ### 2025
 + SoK: A Framework and Guide for Human-Centered Threat Modeling in Security and Privacy Research
 
