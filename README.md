@@ -393,8 +393,6 @@
 ### 2023
 ### 2022
 ### 2021
-+ [Research Track] Automated Repair for Size-Based Inaccessibility Issues in Mobile Apps [Peripheral]
-+ [Tool Demonstration Track] BeAFix: An Automated Repair Tool for Faulty Alloy Models [Peripheral]
 
 ## ICSE
 ### 2026
@@ -423,9 +421,6 @@
 ## MODELS
 ### 2026
 ### 2025
-+ A Metamodel for Reengineering CI/CD Pipelines [Peripheral]
-+ A Method for Model-Driven Engineering of Digital Twins in Manufacturing [Peripheral]
-+ A Model Cleansing Pipeline for Model-driven Engineering: Mitigating the Garbage In, Garbage Out Problem for Open Model Repositories [Peripheral]
 + [Poster] Model Based STPA for Assisted Driving Functions
 ### 2024
 ### 2023
@@ -434,20 +429,10 @@
 
 ## SANER
 ### 2026
-+ VulTerminator: Bringing Back Template-Based Automated Repair for Fixing Java Vulnerabilities [Peripheral]
-+ TestForge: A Benchmarking Framework for LLM-Based Test Case Generation [Peripheral]
-+ Requirement Formalization using Large Language Models [Peripheral]
-+ Going from the Past back to the Future: Incrementally Reconstructing a Metamodel History [Peripheral]
-+ Does one CI-ze fit all? How Continuous Integration Performs in Different Contexts [Peripheral]
-+ CONCORD: A DSL for Generating Simplified and Scalable Graph-Based Code Representations [Peripheral]
 ### 2025
 ### 2024
 + How Dataflow Diagrams Impact Software Security Analysis: an Empirical Experiment
 
-## OOPLSA
-### 2025
-+ Integrating Resource Analyses via Resource Decomposition [Peripheral]
-+ On the Impact of Formal Verification on Software Development [Peripheral]
 
 ## CODASPY
 ### 2026
@@ -456,9 +441,7 @@
 + [Dataset/Tool Paper] Enhanced Threat Modeling and Attack Scenario Generation for OAuth 2.0 Implementations
 ### 2024
 ### 2023
-+ [Poster] The Design of an Ontology for ATT&CK and its Application to Cybersecurity [Peripheral]
-### 2022
-+ [Research Paper] Security Analysis of IoT Frameworks using Static Taint Analysis [Peripheral]
++ [Poster] The Design of an Ontology for ATT&CK and its Application to Cybersecurity
 
 ## SpaceSec
 ### 2026
