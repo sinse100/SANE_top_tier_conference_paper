@@ -470,6 +470,8 @@
 ## UESNIX Security
 ### 2025
 + “Threat modeling is very formal, it’s very technical, and also very hard to do correctly”: Investigating Threat Modeling Practices in Open-Source Software Projects
+### 2024
++ "There are rabbit holes I want to go down that I'm not allowed to go down": An Investigation of Security Expert Threat Modeling Practices for Medical Devices
 
 ## IEEE S&P
 ### 2025
