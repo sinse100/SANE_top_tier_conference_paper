@@ -468,7 +468,7 @@
 + A user-centric threat model and repository for cyber attacks
 + Mitigation lost in translation: leveraging threat information to improve privacy solution selection
 
-## IEEE TSE
+## TSE
 ### 2025
 + Privacy Impact Tree Analysis (PITA): A Tree-Based Privacy Threat Modeling Approach
 
