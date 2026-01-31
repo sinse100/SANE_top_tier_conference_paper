@@ -472,6 +472,8 @@
 + Privacy Property Graph: Towards Automated Privacy Threat Modeling via Static Graph-based Analysis
 
 ## SAC
+### 2025
++ SHIELD: Assessing Security-by-Design in Federated Data Spaces Using Attack Graphs
 ### 2023
 + Expressive and Systematic Risk Assessments with Instance-Centric Threat Models
 ### 2022
