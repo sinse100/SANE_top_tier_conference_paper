@@ -399,6 +399,7 @@
 ### 2023
 + Security and Privacy Threat Analysis for Solid
 ### 2022
++ Uncovering Product Vulnerabilities with Threat Knowledge Graphs
 ### 2021
 
 ## MODELS
