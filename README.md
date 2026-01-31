@@ -100,6 +100,7 @@
 + Annual Conference of the ACM Special Interest Group on Data Communication (SIGCOMM)
 + Conference on Programming Language Design and Implementation (PLDI)
 + International Requirements Engineering Conference (RE)
++ Symposium on Applied Computing (SAC)
 
 # Blockchain & Smart Contract Paper
 ## NDSS
@@ -456,6 +457,10 @@
 ## PETS
 ### 2023
 + Privacy Property Graph: Towards Automated Privacy Threat Modeling via Static Graph-based Analysis
+
+## SAC
+### 2022
++ A user-centric threat model and repository for cyber attacks
 
 ## IEEE TSE
 ### 2025
