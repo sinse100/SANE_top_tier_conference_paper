@@ -312,7 +312,8 @@
 ## ISSRE
 ## 2025
 + Code Generation of Smart Contracts with LLMs: A Case Study on Hyperledger Fabric
-
++ Detection of Cross-Channel Invocation Risks in Hyperledger Fabric
++ LLM Assisted Dual-View Awareness Framework for Smart Contract Vulnerability Detection
 ## CHI
 ### 2025
 + Using Affordance to Understand Usability of Web3 Social Media
