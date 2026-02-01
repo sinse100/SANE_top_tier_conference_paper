@@ -1,10 +1,6 @@
 # 출처
 + [연구실 페이스북](https://www.facebook.com/groups/141562709261263)
 + [교수님 페이스북]()
-  + [Distributed Ledger Technologies: Research and Practice](https://www.facebook.com/groups/141562709261263/posts/9544207665663340/?__cft__[0]=AZbHhB548tMZWGUQLGQMnU2o8fVo-h-Y4eI0F426F9q79B9SLbgYiAM7Y4UEX6W37FIMO_srX-SGLxfdSEPno21wMXZpW-IkEWf-3dA16VCHw62sJ_Dlw6vFzJ7MvLIl6DCaAy7CJ28Obk-UUMVaMy4WgeEm6SEx8ZeL9UX9UHq21ortFTESg8rv1fMX0UII8QolA9WN_LuniA6YhnVerkRc&__tn__=%2CO%2CP-R)
-  + [Information Security Conference](https://www.facebook.com/groups/141562709261263/posts/9480793178671456/?__cft__[0]=AZYgIkKfDU5iptjlBdwm5TeGf0g-SFACfpnGZNzzEP91nCVB1q3aW9SZlgTfTb5xu7D0cHAvUHT6UC0Tds1CPqpyJR9Amu_EV99i9dZk6rlWGNf_vj2LySZ0EWJhkWefXar9VeovhyFQr_ItqE1ju0g-0B-7pEviAOcCZu_mugZjAd35waruc0sxYVKhVNkPARHpTWTcO1mKI80ATGjtz2mG&__tn__=%2CO%2CP-R)
-  + [International Common Criteria Conference](https://www.facebook.com/groups/141562709261263/posts/9480793178671456/?__cft__[0]=AZYgIkKfDU5iptjlBdwm5TeGf0g-SFACfpnGZNzzEP91nCVB1q3aW9SZlgTfTb5xu7D0cHAvUHT6UC0Tds1CPqpyJR9Amu_EV99i9dZk6rlWGNf_vj2LySZ0EWJhkWefXar9VeovhyFQr_ItqE1ju0g-0B-7pEviAOcCZu_mugZjAd35waruc0sxYVKhVNkPARHpTWTcO1mKI80ATGjtz2mG&__tn__=%2CO%2CP-R)
-  + [Digital Forensic Research Workshop](https://www.facebook.com/groups/141562709261263/posts/9480793178671456/?__cft__[0]=AZYgIkKfDU5iptjlBdwm5TeGf0g-SFACfpnGZNzzEP91nCVB1q3aW9SZlgTfTb5xu7D0cHAvUHT6UC0Tds1CPqpyJR9Amu_EV99i9dZk6rlWGNf_vj2LySZ0EWJhkWefXar9VeovhyFQr_ItqE1ju0g-0B-7pEviAOcCZu_mugZjAd35waruc0sxYVKhVNkPARHpTWTcO1mKI80ATGjtz2mG&__tn__=%2CO%2CP-R)
 + [교수님 블로그](https://blog.naver.com/amhoin/221291896225)
 + 교수님 강의자료
 + [BK21 CS 국제우수학술대회](https://gist.github.com/Pusnow/6eb933355b5cb8d31ef1abcb3c3e1206)
@@ -27,7 +23,7 @@
 + Mina Deng (Founder of LINDDUN)
 
 # List of Top Tier Journal
-+ Distributed Ledger Technologies: Research and Practice
++ [Distributed Ledger Technologies: Research and Practice](https://www.facebook.com/groups/141562709261263/posts/9544207665663340/?__cft__[0]=AZbHhB548tMZWGUQLGQMnU2o8fVo-h-Y4eI0F426F9q79B9SLbgYiAM7Y4UEX6W37FIMO_srX-SGLxfdSEPno21wMXZpW-IkEWf-3dA16VCHw62sJ_Dlw6vFzJ7MvLIl6DCaAy7CJ28Obk-UUMVaMy4WgeEm6SEx8ZeL9UX9UHq21ortFTESg8rv1fMX0UII8QolA9WN_LuniA6YhnVerkRc&__tn__=%2CO%2CP-R)
 + IEEE Transactions on Information Forensics and Security (TIFS)
 + ACM Computing Surveys
 + IEEE Transactions on Software Engineering (TSE)
@@ -81,13 +77,13 @@
 + Military Communications Conference (MILCOM)
 + NASA Formal Methods Symposium (NFM)
 + VirusBulletin
-+ International Conference on Common Criteria (ICCC)
++ [International Common Criteria Conference (ICCC)](https://www.facebook.com/groups/141562709261263/posts/9480793178671456/?__cft__[0]=AZYgIkKfDU5iptjlBdwm5TeGf0g-SFACfpnGZNzzEP91nCVB1q3aW9SZlgTfTb5xu7D0cHAvUHT6UC0Tds1CPqpyJR9Amu_EV99i9dZk6rlWGNf_vj2LySZ0EWJhkWefXar9VeovhyFQr_ItqE1ju0g-0B-7pEviAOcCZu_mugZjAd35waruc0sxYVKhVNkPARHpTWTcO1mKI80ATGjtz2mG&__tn__=%2CO%2CP-R)
 + Symposium on Vehicle Security and Privacy (VehicleSec)
 + International Conference on Cloud Computing (CLOUD)
 + Workshop on the Security of Space and Satellite Systems (SpaceSec)
 + USENIX Symposium on Networked Systems Design and Implementation (NSDI)
 + Secure Development Conference (SecDev)
-+ Digital Forensic Research Workshop (DFRWS)
++ [Digital Forensic Research Workshop (DFRWS)](https://www.facebook.com/groups/141562709261263/posts/9480793178671456/?__cft__[0]=AZYgIkKfDU5iptjlBdwm5TeGf0g-SFACfpnGZNzzEP91nCVB1q3aW9SZlgTfTb5xu7D0cHAvUHT6UC0Tds1CPqpyJR9Amu_EV99i9dZk6rlWGNf_vj2LySZ0EWJhkWefXar9VeovhyFQr_ItqE1ju0g-0B-7pEviAOcCZu_mugZjAd35waruc0sxYVKhVNkPARHpTWTcO1mKI80ATGjtz2mG&__tn__=%2CO%2CP-R)
 + Conference on Neural Information Processing Systems (NeurIPS)
 + Symposium on Operating Systems Principles (SOSP)
 + Conference on Security and Privacy in Wireless and Mobile Networks (WiSec)
@@ -115,7 +111,7 @@
 + Annual International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)
 + International Conference on Measurement and Modeling of Computer Systems (SIGMETRICS)
 + International Symposium on Software Reliability Engineering (ISSRE)
-+ Information Security Conference (ISC)
++ [Information Security Conference (ISC)](https://www.facebook.com/groups/141562709261263/posts/9480793178671456/?__cft__[0]=AZYgIkKfDU5iptjlBdwm5TeGf0g-SFACfpnGZNzzEP91nCVB1q3aW9SZlgTfTb5xu7D0cHAvUHT6UC0Tds1CPqpyJR9Amu_EV99i9dZk6rlWGNf_vj2LySZ0EWJhkWefXar9VeovhyFQr_ItqE1ju0g-0B-7pEviAOcCZu_mugZjAd35waruc0sxYVKhVNkPARHpTWTcO1mKI80ATGjtz2mG&__tn__=%2CO%2CP-R)
 
 # Blockchain & Smart Contract Paper
 ## NDSS
