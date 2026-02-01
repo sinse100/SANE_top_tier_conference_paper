@@ -366,44 +366,12 @@
 
 
 # Threat Modeling Paper
- 
-## ISSTA
-### 2026
-### 2025
-### 2024
-### 2023
-### 2022
-### 2021
-
 
 ## ASE
-### 2026
 ### 2025
 + [Tool Demonstration Track] FlowStrider: Low-friction Continuous Threat Modeling
-### 2024
-### 2023
-### 2022
-### 2021
-
-## ICSE
-### 2026
-### 2025
-### 2024
-### 2023
-### 2022
-### 2021
-
-## FSE
-### 2026
-### 2025
-### 2024
-### 2023
-### 2022
-### 2021
 
 ## SecDev
-### 2026
-### 2025
 ### 2024
 + From automation to CI/CD: a comparative evaluation of threat modeling tools
 ### 2023
@@ -413,37 +381,25 @@
 ### 2021
 
 ## MODELS
-### 2026
-### 2025
-### 2024
 ### 2023
 + [Poster] Model Based STPA for Assisted Driving Functions
-### 2022
-### 2021
 
 ## SANER
-### 2026
-### 2025
 ### 2024
 + How Dataflow Diagrams Impact Software Security Analysis: an Empirical Experiment
 
 
 ## CODASPY
-### 2026
 ### 2025
 + [Research Paper] Citar: Cyberthreat Intelligence-driven Attack Reconstruction
 + [Research Paper] TerrARA: Automated Security Threat Modeling for Infrastructure as Code
 + [Dataset/Tool Paper] Enhanced Threat Modeling and Attack Scenario Generation for OAuth 2.0 Implementations
-### 2024
 ### 2023
 + [Poster] The Design of an Ontology for ATT&CK and its Application to Cybersecurity
 
 ## SpaceSec
 ### 2026
 + Towards automated threat modeling for space systems via SPARTA matrix
-### 2025
-
-## ESORICS
 
 ## UESNIX Security
 ### 2025
