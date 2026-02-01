@@ -259,6 +259,10 @@
 + Short Paper: Rewardable Naysayer Proofs
 + The Latency Price of Threshold Cryptosystem in Blockchains
 
+## AAAI
+### 2025
++ SCALM: Detecting Bad Practices in Smart Contracts Through LLMs
+
 ## AFT
 ### 2025
 + [security/privacy] Cache Timing Leakages in Zero-Knowledge Protocols
