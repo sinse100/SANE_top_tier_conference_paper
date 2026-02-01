@@ -304,19 +304,15 @@
 + [security/privacy] FIRST: FrontrunnIng Resistant Smart ConTracts
 + [security/privacy] Mining Attack with Zero Knowledge in the Blockchain
 
-## WWW
-### 2025
-### 2024
-### 2023
+## ISSRE
+## 2025
++ Code Generation of Smart Contracts with LLMs: A Case Study on Hyperledger Fabric
 
 ## CHI
 ### 2025
 + Using Affordance to Understand Usability of Web3 Social Media
 + Understanding End-User Perception of Transfer Risks in Smart Contracts
 + Of Secrets and Seedphrases: Conceptual Misunderstandings and Security Challenges for Seed Phrase Management among Cryptocurrency Users.
-
-### 2024
-### 2023
 
 ## ACM Computing Surveys
 ### 2025
