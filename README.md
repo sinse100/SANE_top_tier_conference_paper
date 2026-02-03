@@ -453,6 +453,7 @@
 ## ISSTA
 ### 2025
 + [Incremental Verification of Concurrent Programs through Refinement Constraint Adaptation](https://dl.acm.org/doi/pdf/10.1145/3728976)
++ [What Happened in This Pipeline? Diffing Build Logs With CiDiff](https://dl.acm.org/doi/pdf/10.1145/3728966)
 ### 2024
 + [Detecting build dependency errors in incremental builds](https://dl.acm.org/doi/pdf/10.1145/3650212.3652105)
 + [C2D2: Extracting Critical Changes for Real-World Bugs with Dependency-Sensitive Delta Debugging](https://dl.acm.org/doi/pdf/10.1145/3650212.3652129)
