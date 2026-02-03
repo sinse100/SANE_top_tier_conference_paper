@@ -457,3 +457,4 @@
 + [Commit Artifact Preserving Build Prediction](https://dl.acm.org/doi/pdf/10.1145/3650212.3680356)
 + [AsFuzzer: Differential Testing of Assemblers with Error-Driven Grammar Inference](https://dl.acm.org/doi/pdf/10.1145/3650212.3680345)
 + [Call Graph Soundness in Android Static Analysis](https://dl.acm.org/doi/pdf/10.1145/3650212.3680333)
++ [PatchFinder: A Two-Phase Approach to Security Patch Tracing for Disclosed Vulnerabilities in Open-Source Software](https://dl.acm.org/doi/pdf/10.1145/3650212.3680305)
