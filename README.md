@@ -450,3 +450,7 @@
 + Privacy Impact Tree Analysis (PITA): A Tree-Based Privacy Threat Modeling Approach
 
 # CI/CD Paper
+## ISSTA
+### 2024
++ [Detecting build dependency errors in incremental builds](https://dl.acm.org/doi/pdf/10.1145/3650212.3652105)
+
