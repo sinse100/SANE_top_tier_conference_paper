@@ -5,6 +5,7 @@
 + 교수님 강의자료
 + [BK21 CS 국제우수학술대회](https://gist.github.com/Pusnow/6eb933355b5cb8d31ef1abcb3c3e1206)
 + [서울대학교 공과대학 컴퓨터공학부 Top Conference List](https://cse.snu.ac.kr/research/top-conference-list)
++ [TEXAS A&M Computer Security Conference Ranking and Statistic](https://people.engr.tamu.edu/guofei/sec_conf_stat.htm?fbclid=IwY2xjawPuWZdleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeSVeB93ATtZNE2FK-ntndoTJqzU20b-ZysEUjD0UgoD6a8-os7w3foj3ooMo_aem_EBo5mpejpTVl4oxmZ3wcdw)
 
 
 # Blockchain & Smart Contract 관련 유명인사
@@ -114,6 +115,7 @@
 + [Information Security Conference (ISC)](https://www.facebook.com/groups/141562709261263/posts/9480793178671456/?__cft__[0]=AZYgIkKfDU5iptjlBdwm5TeGf0g-SFACfpnGZNzzEP91nCVB1q3aW9SZlgTfTb5xu7D0cHAvUHT6UC0Tds1CPqpyJR9Amu_EV99i9dZk6rlWGNf_vj2LySZ0EWJhkWefXar9VeovhyFQr_ItqE1ju0g-0B-7pEviAOcCZu_mugZjAd35waruc0sxYVKhVNkPARHpTWTcO1mKI80ATGjtz2mG&__tn__=%2CO%2CP-R)
 + International Middleware Conference (Middleware)
 + International Symposium on Distributed Computing (DISC)
++ International Conference on Cryptology And Network Security (CANS)
 
 # Blockchain & Smart Contract Paper
 ## NDSS
