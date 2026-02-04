@@ -460,5 +460,10 @@
 + [Commit Artifact Preserving Build Prediction](https://dl.acm.org/doi/pdf/10.1145/3650212.3680356)
 + [AsFuzzer: Differential Testing of Assemblers with Error-Driven Grammar Inference](https://dl.acm.org/doi/pdf/10.1145/3650212.3680345)
 + [Call Graph Soundness in Android Static Analysis](https://dl.acm.org/doi/pdf/10.1145/3650212.3680333)
+  + 기존 정적 분석 도구들은 Call Graph를 생성할 때 프로젝트 또는 애플리케이션 외부 함수에 해당하는 노드에서 분석이 중단되어, 해당 노드 이후의 호출 관계를 더 이상 확장하지 못한다는 한계가 있다. 이에 대한 해결 방안으로 연구진은 다음의 네 가지 접근법을 제시하였다.
+    + App의 실행 로그와 같은 런타임 데이터를 분석하여 외부 함수 또는 C 표준 함수가 호출하는 다른 함수들을 파악 - (우리 논문에서도 빌드 로그 등을 활용하여 외부 프로젝트를 추적하는 방식을 취해볼 수 있을 듯)
+    + 가장 빈번하게 호출되는 함수들 몇개만 우선적으로 Call Graph를 미리 분석해 놓고 Call Graph 만들 떄 갖다 붙임
+    + 외부 함수들 코드를 일일이 분석하는 데 상당한 시간이 걸리므로, 외부 함수에서 호출문만 냅두고 다 지움
+    + 외부 함수들이 다른 프로그래밍 언어로 작성된 경우, Caller-Callee 관계 해석이 어려울 수 있으므로, 표준화된 중간 표현으로 변환 후 해석
 + [PatchFinder: A Two-Phase Approach to Security Patch Tracing for Disclosed Vulnerabilities in Open-Source Software](https://dl.acm.org/doi/pdf/10.1145/3650212.3680305)
   + code diff를 보고 해당 패치가 어떤 cve 보안 취약점을 패치하기 위한것인지, 즉, 변경된 코드의 semantic 을 AI를 사용하여 식별. 반면, 우리 논문은 Semantic이 아니라 Syntatic 한 변화를 캐치하는 것이 목표이므로 해당 논문의 연구 내용을 참고할 필요는 없을 것으로 보임 
