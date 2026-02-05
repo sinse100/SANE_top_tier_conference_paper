@@ -459,6 +459,9 @@
 + [Privacy Impact Tree Analysis (PITA): A Tree-Based Privacy Threat Modeling Approach](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11015512&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
 
 # CI/CD Paper
+## ASE
+### 2024
++ [Poster] Static Dataflow Analysis of R Programs
 ## ISSTA
 ### 2025
 + [Incremental Verification of Concurrent Programs through Refinement Constraint Adaptation](https://dl.acm.org/doi/pdf/10.1145/3728976)
