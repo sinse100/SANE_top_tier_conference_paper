@@ -388,7 +388,7 @@
 ### 2022
 + [Uncovering Product Vulnerabilities with Threat Knowledge Graphs](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9973028&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2Fic3RyYWN0L2RvY3VtZW50Lzk5NzMwMjg=)
 ### 2021
-+ Automated Threat Analysis and Management in a Continuous Integration Pipeline
++ [Automated Threat Analysis and Management in a Continuous Integration Pipeline](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9652652&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2Fic3RyYWN0L2RvY3VtZW50Lzk2NTI2NTI=)
 
 ## MODELS
 ### 2023
