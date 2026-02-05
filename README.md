@@ -398,6 +398,9 @@
 ### 2024
 + How Dataflow Diagrams Impact Software Security Analysis: an Empirical Experiment
 
+## CCS
+### 2022
++ Understanding the How and the Why: Exploring Secure Development Practices through a Course Competition
 
 ## CODASPY
 ### 2025
