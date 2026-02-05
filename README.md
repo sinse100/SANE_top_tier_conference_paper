@@ -401,7 +401,7 @@
 
 ## CCS
 ### 2022
-+ Understanding the How and the Why: Exploring Secure Development Practices through a Course Competition
++ [Understanding the How and the Why: Exploring Secure Development Practices through a Course Competition](https://dl.acm.org/doi/pdf/10.1145/3548606.3560569)
 
 ## CODASPY
 ### 2025
