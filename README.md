@@ -382,7 +382,7 @@
 
 ## SecDev
 ### 2024
-+ From automation to CI/CD: a comparative evaluation of threat modeling tools
++ [From automation to CI/CD: a comparative evaluation of threat modeling tools](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=10734045&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2Fic3RyYWN0L2RvY3VtZW50LzEwNzM0MDQ1)
 ### 2023
 + Security and Privacy Threat Analysis for Solid
 ### 2022
