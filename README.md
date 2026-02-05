@@ -435,11 +435,11 @@
 
 ## CHI
 ### 2023
-+ Models of Applied Privacy (MAP): A Persona Based Approach to Threat Modeling
++ [Models of Applied Privacy (MAP): A Persona Based Approach to Threat Modeling](https://dl.acm.org/doi/pdf/10.1145/3544548.3581484)
 
 ## PETS
 ### 2023
-+ Privacy Property Graph: Towards Automated Privacy Threat Modeling via Static Graph-based Analysis
++ [Privacy Property Graph: Towards Automated Privacy Threat Modeling via Static Graph-based Analysis](https://petsymposium.org/popets/2023/popets-2023-0046.pdf)
 
 ## SAC
 ### 2025
