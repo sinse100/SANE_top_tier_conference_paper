@@ -378,7 +378,7 @@
 
 ## ASE
 ### 2025
-+ [Tool Demonstration Track] FlowStrider: Low-friction Continuous Threat Modeling
++ [Tool Demonstration Track] [FlowStrider: Low-friction Continuous Threat Modeling](https://elib.dlr.de/219762/1/FlowStrider_preprint.pdf)
 
 ## SecDev
 ### 2024
