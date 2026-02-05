@@ -388,6 +388,7 @@
 ### 2022
 + Uncovering Product Vulnerabilities with Threat Knowledge Graphs
 ### 2021
++ Automated Threat Analysis and Management in a Continuous Integration Pipeline
 
 ## MODELS
 ### 2023
