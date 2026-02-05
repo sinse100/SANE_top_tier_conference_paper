@@ -43,16 +43,17 @@
 + CODE BLUE
 + Embedded Security in Cars (ESCAR)
 ## Academic Conference
-+ Financial Cryptography and Data Security (FC)
-+ Advances in Financial Technologies (AFT)
-+ International Conference on Blockchain and Cryptocurrency (ICBC)
+
++ Annual Conference of the ACM Special Interest Group on Data Communication (SIGCOMM)
 + Security & Privacy (S&P)
 + Network and Distributed System Security (NDSS) Symposium
 + USENIX Security
 + Conference on Computer and Communications Security (CCS)
++ International Conference on Software Engineering (ICSE)
++ International Cryptology Conference (CRYPTO)
++ AAAI Conference on Artificial Intelligence (AAAI)
 + Internet Measurement Conference (IMC)
 + International Symposium on Software Testing and Analysis (ISSTA)
-+ International Conference on Software Engineering (ICSE)
 + Conference on Human Factors in Computing Systems (CHI)
 + International Conference on Dependable Systems and Networks (DSN)
 + International Symposium on Research in Attacks, Intrusions and Defenses (RAID)
@@ -63,7 +64,6 @@
 + European Symposium on Security and Privacy (EuroS&P)
 + International Conference on Distributed Computing Systems (ICDCS)
 + Economics and Computation (EC)
-+ International Cryptology Conference (CRYPTO)
 + International Conference on Model Driven Engineering Languages and Systems (MODELS)
 + ASIA Conference on Computer and Communications Security (Asia CCS)
 + Conference on Data and Application Security and Privacy (CODASPY)
@@ -80,7 +80,9 @@
 + Symposium on Principles of Distributed Computing (PODC)
 + International Conference on the Foundations of Software Engineering (FSE)
 + International Symposium on Formal Methods (FM)
-+ AAAI Conference on Artificial Intelligence (AAAI)
++ Financial Cryptography and Data Security (FC)
++ Advances in Financial Technologies (AFT)
++ International Conference on Blockchain and Cryptocurrency (ICBC)
 + Military Communications Conference (MILCOM)
 + NASA Formal Methods Symposium (NFM)
 + [International Common Criteria Conference (ICCC)](https://www.facebook.com/groups/141562709261263/posts/9480793178671456/?__cft__[0]=AZYgIkKfDU5iptjlBdwm5TeGf0g-SFACfpnGZNzzEP91nCVB1q3aW9SZlgTfTb5xu7D0cHAvUHT6UC0Tds1CPqpyJR9Amu_EV99i9dZk6rlWGNf_vj2LySZ0EWJhkWefXar9VeovhyFQr_ItqE1ju0g-0B-7pEviAOcCZu_mugZjAd35waruc0sxYVKhVNkPARHpTWTcO1mKI80ATGjtz2mG&__tn__=%2CO%2CP-R)
@@ -102,7 +104,7 @@
 + International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (MobiHoc)
 + International Conference on Computer-Aided Verification (CAV)
 + European Conference on Computer Systems (EuroSys)
-+ Annual Conference of the ACM Special Interest Group on Data Communication (SIGCOMM)
+
 + Conference on Programming Language Design and Implementation (PLDI)
 + International Requirements Engineering Conference (RE)
 + Symposium on Applied Computing (SAC)
