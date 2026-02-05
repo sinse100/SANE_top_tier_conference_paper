@@ -452,11 +452,11 @@
 
 ## CANS
 ### 2025
-+ Unveiling the critical attack path for implanting backdoors in supply chains: Practical experience from XZ
++ [Unveiling the critical attack path for implanting backdoors in supply chains: Practical experience from XZ](https://www.mroland.at/publications/2025-lins-cans/Lins_2025_CANS2025_XZAttackPath.pdf)
 
 ## TSE
 ### 2025
-+ Privacy Impact Tree Analysis (PITA): A Tree-Based Privacy Threat Modeling Approach
++ [Privacy Impact Tree Analysis (PITA): A Tree-Based Privacy Threat Modeling Approach](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11015512&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
 
 # CI/CD Paper
 ## ISSTA
