@@ -392,7 +392,7 @@
 
 ## MODELS
 ### 2023
-+ Automatic Security-Flaw Detection Replication and Comparison
++ [Automatic Security-Flaw Detection Replication and Comparison](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=10343779&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
 + [Poster] Model Based STPA for Assisted Driving  Functions
 
 ## SANER
