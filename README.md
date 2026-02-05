@@ -405,11 +405,11 @@
 
 ## CODASPY
 ### 2025
-+ [Research Paper] Citar: Cyberthreat Intelligence-driven Attack Reconstruction
-+ [Research Paper] TerrARA: Automated Security Threat Modeling for Infrastructure as Code
-+ [Dataset/Tool Paper] Enhanced Threat Modeling and Attack Scenario Generation for OAuth 2.0 Implementations
++ [Research Paper] [Citar: Cyberthreat Intelligence-driven Attack Reconstruction](https://dl.acm.org/doi/pdf/10.1145/3714393.3726519)
++ [Research Paper] [TerrARA: Automated Security Threat Modeling for Infrastructure as Code](https://dl.acm.org/doi/pdf/10.1145/3714393.3726494)
++ [Dataset/Tool Paper] [Enhanced Threat Modeling and Attack Scenario Generation for OAuth 2.0 Implementations](https://dl.acm.org/doi/pdf/10.1145/3714393.3726005)
 ### 2023
-+ [Poster] The Design of an Ontology for ATT&CK and its Application to Cybersecurity
++ [Poster] [The Design of an Ontology for ATT&CK and its Application to Cybersecurity](https://dl.acm.org/doi/pdf/10.1145/3577923.3585051)
 
 ## SpaceSec
 ### 2026
