@@ -8,7 +8,7 @@
 + [TEXAS A&M Computer Security Conference Ranking and Statistic](https://people.engr.tamu.edu/guofei/sec_conf_stat.htm?fbclid=IwY2xjawPuWZdleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeSVeB93ATtZNE2FK-ntndoTJqzU20b-ZysEUjD0UgoD6a8-os7w3foj3ooMo_aem_EBo5mpejpTVl4oxmZ3wcdw)
 
 
-# Blockchain & Smart Contract 관련 유명인사
+# Blockchain & Smart Contract Celebrities
 + [Vitalik Buterin](https://scholar.google.com/citations?view_op=search_authors&mauthors=vitalik+buterin&hl=ko&oi=ao) (Co-Founder of Ethereum)
 + Gavin Wood (Co-Founder of Ethereum)
 + Silvio Micali (Co-Founder of ZKP, Turing Awards Winner, Founder of Algorand)
@@ -17,7 +17,7 @@
 + Hal Finney (Co-Developer of Bitcoin)
 + Shafi Goldwasser (Co-Founder of ZKP, Turing Awards Winner)
 
-# Threat Modeling 관련 유명인사
+# Threat Modeling Celebrities
 + Adam Shostack
 + Bruce Schneier
 + Loren Kohnfelder (Founder of STRIDE)
