@@ -427,11 +427,11 @@
 
 ## DSN
 ### 2023
-+ PASTA: Pragmatic Automated System-Theoretic Process Analysis
++ [PASTA: Pragmatic Automated System-Theoretic Process Analysis](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=10202635&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
 
 ## SOUPS
 ### 2024
-+ Threat modeling state of practice in Dutch organizations
++ [Threat modeling state of practice in Dutch organizations](https://www.usenix.org/system/files/soups2024-verreydt.pdf)
 
 ## CHI
 ### 2023
