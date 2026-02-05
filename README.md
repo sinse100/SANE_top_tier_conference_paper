@@ -419,7 +419,7 @@
 ### 2025
 + [“Threat modeling is very formal, it’s very technical, and also very hard to do correctly”: Investigating Threat Modeling Practices in Open-Source Software Projects](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-294-kaur.pdf)
 ### 2024
-+ "There are rabbit holes I want to go down that I'm not allowed to go down": An Investigation of Security Expert Threat Modeling Practices for Medical Devices
++ ["There are rabbit holes I want to go down that I'm not allowed to go down": An Investigation of Security Expert Threat Modeling Practices for Medical Devices](https://www.usenix.org/system/files/usenixsecurity24-thompson.pdf)
 
 ## S&P
 ### 2025
