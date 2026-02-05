@@ -384,7 +384,7 @@
 ### 2024
 + [From automation to CI/CD: a comparative evaluation of threat modeling tools](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=10734045&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2Fic3RyYWN0L2RvY3VtZW50LzEwNzM0MDQ1)
 ### 2023
-+ Security and Privacy Threat Analysis for Solid
++ [Security and Privacy Threat Analysis for Solid](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=10305608&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2Fic3RyYWN0L2RvY3VtZW50LzEwMzA1NjA4)
 ### 2022
 + Uncovering Product Vulnerabilities with Threat Knowledge Graphs
 ### 2021
