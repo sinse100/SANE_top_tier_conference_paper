@@ -474,6 +474,7 @@
 + [Detecting build dependency errors in incremental builds](https://dl.acm.org/doi/pdf/10.1145/3650212.3652105)
 + [C2D2: Extracting Critical Changes for Real-World Bugs with Dependency-Sensitive Delta Debugging](https://dl.acm.org/doi/pdf/10.1145/3650212.3652129)
 + [Commit Artifact Preserving Build Prediction](https://dl.acm.org/doi/pdf/10.1145/3650212.3680356)
+  + 기존 ML 모델 기반 빌드 결과 예측은 커밋 메시지(자연어)와 CodeDiff(프로그래밍 언어)를 효과적으로 활용하지 못함 (ML기반 모델에서는 사람이 패턴과 피쳐를 수동을 넣어줘야 하는데, 자연어와 컴퓨터 언어 상의 수백만가지의 패턴을 일일이 넣어주는게 불가능). 이에 Transformer 기반 딥러닝 모델을 활용하여 커밋 메시지와 CodeDiff 를 충분히 효과적으로 인식하여 빌드 결과를 예측하는 방법론을 제안
 + [AsFuzzer: Differential Testing of Assemblers with Error-Driven Grammar Inference](https://dl.acm.org/doi/pdf/10.1145/3650212.3680345)
   + 상용 어셈블러는 내부 로직이나 문법 규칙이 공개되어있지 않아 블랙박스 상태로 테스트를 할수 밖에 없음. 이에 저자는 블랙박스 상태의 어셈블러에 오류가 있는지 검증하기 위한 아래의 방법론을 제안
     + 동일한 어셈블리 코드입력에 대해 다른 바이너리 출력을 보이는 어셈블러가 오류가 있는것으로 판단 (비교군끼리는 출력들 간의 차이를 분석)
