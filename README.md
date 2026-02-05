@@ -391,7 +391,8 @@
 
 ## MODELS
 ### 2023
-+ [Poster] Model Based STPA for Assisted Driving Functions
++ Automatic Security-Flaw Detection Replication and Comparison
++ [Poster] Model Based STPA for Assisted Driving  Functions
 
 ## SANER
 ### 2024
