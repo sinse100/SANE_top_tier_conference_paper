@@ -35,6 +35,13 @@
 + IEEE Transactions on Robotics (T-RO)
 
 # List of Top Tier Conference
+## Industrial Conference
++ DEFCON
++ Blackhat
++ VirusBulletin
++ Threat Modeling Connect (ThreatModCon)
++ CODE BLUE
+## Academic Conference
 + Financial Cryptography and Data Security (FC)
 + Advances in Financial Technologies (AFT)
 + International Conference on Blockchain and Cryptocurrency (ICBC)
@@ -56,8 +63,6 @@
 + International Conference on Distributed Computing Systems (ICDCS)
 + Economics and Computation (EC)
 + International Cryptology Conference (CRYPTO)
-+ DEFCON
-+ Blackhat
 + International Conference on Model Driven Engineering Languages and Systems (MODELS)
 + ASIA Conference on Computer and Communications Security (Asia CCS)
 + Conference on Data and Application Security and Privacy (CODASPY)
@@ -77,7 +82,6 @@
 + AAAI Conference on Artificial Intelligence (AAAI)
 + Military Communications Conference (MILCOM)
 + NASA Formal Methods Symposium (NFM)
-+ VirusBulletin
 + [International Common Criteria Conference (ICCC)](https://www.facebook.com/groups/141562709261263/posts/9480793178671456/?__cft__[0]=AZYgIkKfDU5iptjlBdwm5TeGf0g-SFACfpnGZNzzEP91nCVB1q3aW9SZlgTfTb5xu7D0cHAvUHT6UC0Tds1CPqpyJR9Amu_EV99i9dZk6rlWGNf_vj2LySZ0EWJhkWefXar9VeovhyFQr_ItqE1ju0g-0B-7pEviAOcCZu_mugZjAd35waruc0sxYVKhVNkPARHpTWTcO1mKI80ATGjtz2mG&__tn__=%2CO%2CP-R)
 + Symposium on Vehicle Security and Privacy (VehicleSec)
 + International Conference on Cloud Computing (CLOUD)
@@ -90,8 +94,6 @@
 + Conference on Security and Privacy in Wireless and Mobile Networks (WiSec)
 + Embedded Security in Cars (ESCAR)
 + Conference on Knowledge Discovery and Data Mining (KDD)
-+ Threat Modeling Connect (ThreatModCon)
-+ CODE BLUE
 + International Conference on Learning Representations (ICLR)
 + International Conference on Machine Learning (ICML)
 + International Conference on Object-Oriented Programming Systems, Languages, and Applications (OOPSLA)
