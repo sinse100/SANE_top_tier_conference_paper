@@ -41,6 +41,7 @@
 + VirusBulletin
 + Threat Modeling Connect (ThreatModCon)
 + CODE BLUE
++ Embedded Security in Cars (ESCAR)
 ## Academic Conference
 + Financial Cryptography and Data Security (FC)
 + Advances in Financial Technologies (AFT)
@@ -92,7 +93,6 @@
 + Conference on Neural Information Processing Systems (NeurIPS)
 + Symposium on Operating Systems Principles (SOSP)
 + Conference on Security and Privacy in Wireless and Mobile Networks (WiSec)
-+ Embedded Security in Cars (ESCAR)
 + Conference on Knowledge Discovery and Data Mining (KDD)
 + International Conference on Learning Representations (ICLR)
 + International Conference on Machine Learning (ICML)
