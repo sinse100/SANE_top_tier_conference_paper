@@ -75,7 +75,6 @@
 + Annual Computer Security Applications Conference (ACSAC)
 + Privacy Enhancing Technologies Symposium (PETS)
 + Computer Security Foundations Symposium (CSF)
-+ International Workshop on Formal Methods for Blockchains (FMBC)
 + International Conference on the Theory and Application of Cryptology and Information Security (Asiacrypt)
 + Symposium On Usable Privacy and Security (SOUPS)
 + International Conference on Applied Cryptography and Network Security (ACNS)
@@ -90,9 +89,7 @@
 + Military Communications Conference (MILCOM)
 + NASA Formal Methods Symposium (NFM)
 + [International Common Criteria Conference (ICCC)](https://www.facebook.com/groups/141562709261263/posts/9480793178671456/?__cft__[0]=AZYgIkKfDU5iptjlBdwm5TeGf0g-SFACfpnGZNzzEP91nCVB1q3aW9SZlgTfTb5xu7D0cHAvUHT6UC0Tds1CPqpyJR9Amu_EV99i9dZk6rlWGNf_vj2LySZ0EWJhkWefXar9VeovhyFQr_ItqE1ju0g-0B-7pEviAOcCZu_mugZjAd35waruc0sxYVKhVNkPARHpTWTcO1mKI80ATGjtz2mG&__tn__=%2CO%2CP-R)
-+ Symposium on Vehicle Security and Privacy (VehicleSec)
 + International Conference on Cloud Computing (CLOUD)
-+ Workshop on the Security of Space and Satellite Systems (SpaceSec)
 + USENIX Symposium on Networked Systems Design and Implementation (NSDI)
 + Secure Development Conference (SecDev)
 + [Digital Forensic Research Workshop (DFRWS)](https://www.facebook.com/groups/141562709261263/posts/9480793178671456/?__cft__[0]=AZYgIkKfDU5iptjlBdwm5TeGf0g-SFACfpnGZNzzEP91nCVB1q3aW9SZlgTfTb5xu7D0cHAvUHT6UC0Tds1CPqpyJR9Amu_EV99i9dZk6rlWGNf_vj2LySZ0EWJhkWefXar9VeovhyFQr_ItqE1ju0g-0B-7pEviAOcCZu_mugZjAd35waruc0sxYVKhVNkPARHpTWTcO1mKI80ATGjtz2mG&__tn__=%2CO%2CP-R)
@@ -104,7 +101,6 @@
 + International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (MobiHoc)
 + International Conference on Computer-Aided Verification (CAV)
 + European Conference on Computer Systems (EuroSys)
-
 + Conference on Programming Language Design and Implementation (PLDI)
 + International Requirements Engineering Conference (RE)
 + Symposium on Applied Computing (SAC)
@@ -120,7 +116,10 @@
 + International Middleware Conference (Middleware)
 + International Symposium on Distributed Computing (DISC)
 + International Conference on Cryptology And Network Security (CANS)
-
+### workshop
++ Workshop on the Security of Space and Satellite Systems (SpaceSec)
++ International Workshop on Formal Methods for Blockchains (FMBC)
++ Symposium on Vehicle Security and Privacy (VehicleSec)
 # Blockchain & Smart Contract Paper
 ## NDSS
 ### 2025
