@@ -443,12 +443,12 @@
 
 ## SAC
 ### 2025
-+ SHIELD: Assessing Security-by-Design in Federated Data Spaces Using Attack Graphs
++ [SHIELD: Assessing Security-by-Design in Federated Data Spaces Using Attack Graphs](https://dl.acm.org/doi/pdf/10.1145/3672608.3707797)
 ### 2023
-+ Expressive and Systematic Risk Assessments with Instance-Centric Threat Models
++ [Expressive and Systematic Risk Assessments with Instance-Centric Threat Models](https://dl.acm.org/doi/pdf/10.1145/3555776.3577668)
 ### 2022
-+ A user-centric threat model and repository for cyber attacks
-+ Mitigation lost in translation: leveraging threat information to improve privacy solution selection
++ [A user-centric threat model and repository for cyber attacks](https://dl.acm.org/doi/pdf/10.1145/3477314.3507315)
++ [Mitigation lost in translation: leveraging threat information to improve privacy solution selection](https://dl.acm.org/doi/pdf/10.1145/3477314.3507107)
 
 ## CANS
 ### 2025
