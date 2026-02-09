@@ -473,6 +473,8 @@
 ## ISSRE
 ## 2025
 + A Cascaded Pipeline for Self-Directed, Model-Agnostic Unit Test Generation via LLMs
++ SimFuzz: Conflict-Aware Parallel Fuzzing via Incremental Path Similarity Clustering
++ Refactoring ≠ Bug-Inducing: Improving Defect Prediction with Code Change Tactics Analysis
 
 ## FSE
 ### 2023
