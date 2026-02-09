@@ -369,12 +369,9 @@
 + [security/privacy] Automated Attack Synthesis for Constant Product Market Makers
 + [security/privacy] Copy-and-Paste? Identifying EVM-Inequivalent Code Smells in Multi-chain Reuse Contracts
 
-## ISSRE
-### 2025
-+ LLM Assisted Dual-View Awareness Framework for Smart Contract Vulnerability Detection
-+ Detection of Cross-Channel Invocation Risks in Hyperledger Fabric
-+ Code Generation of Smart Contracts with LLMs: A Case Study on Hyperledger Fabric
-+ bBench: A Comprehensive Performance Benchmark for Blockchain Applications
+## SANER
+### 2026
++ Towards Secure Oracle Usage: Understanding and Detecting Oracle Vulnerabilities in Smart Contracts
 
 ## ISC
 ### 2025
