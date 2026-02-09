@@ -369,12 +369,19 @@
 + [security/privacy] Automated Attack Synthesis for Constant Product Market Makers
 + [security/privacy] Copy-and-Paste? Identifying EVM-Inequivalent Code Smells in Multi-chain Reuse Contracts
 
+## ISSRE
+### 2025
++ LLM Assisted Dual-View Awareness Framework for Smart Contract Vulnerability Detection
++ Detection of Cross-Channel Invocation Risks in Hyperledger Fabric
++ Code Generation of Smart Contracts with LLMs: A Case Study on Hyperledger Fabric
+
 ## ETC
 + Bitcoin: A Peer-to-Peer Electronic Cash System
 + Ethereum Whitepaper
 + The Byzantine Generals Problem
 + Proof of history: what is it good for?
 + The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments
+
 
 
 # Threat Modeling Paper
@@ -462,6 +469,10 @@
 + [Privacy Impact Tree Analysis (PITA): A Tree-Based Privacy Threat Modeling Approach](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11015512&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
 
 # CI/CD Paper
+## ISSRE
+## 2025
++ A Cascaded Pipeline for Self-Directed, Model-Agnostic Unit Test Generation via LLMs
+
 ## FSE
 ### 2023
 + [HyperDiff: Computing Source Code Diffs at Scale](https://dl.acm.org/doi/pdf/10.1145/3611643.3616312)
