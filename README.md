@@ -472,6 +472,10 @@
 ### 2025
 + [Privacy Impact Tree Analysis (PITA): A Tree-Based Privacy Threat Modeling Approach](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11015512&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
 
+## ACM COMPUTING SURVEY
+### 2024
++ MITRE ATT&CK: State of the Art and Way Forward
+
 # CI/CD Paper
 ## ISSRE
 ## 2025
