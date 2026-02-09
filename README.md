@@ -379,6 +379,7 @@
 ## ISC
 ### 2025
 + BlockLens: Detecting Malicious Transactions in Ethereum Using LLM Techniques
++ Jakiro: A Cross-modal Contrastive Learning Framework for Detecting Vulnerabilities in Smart Contracts
 
 ## ETC
 + Bitcoin: A Peer-to-Peer Electronic Cash System
