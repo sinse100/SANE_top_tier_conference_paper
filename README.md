@@ -116,6 +116,7 @@
 + International Middleware Conference (Middleware)
 + International Symposium on Distributed Computing (DISC)
 + International Conference on Cryptology And Network Security (CANS)
++ International Conference on Acoustics, Speech and Signal Processing (ICASSP)
 ### workshop
 + Workshop on the Security of Space and Satellite Systems (SpaceSec)
 + International Workshop on Formal Methods for Blockchains (FMBC)
