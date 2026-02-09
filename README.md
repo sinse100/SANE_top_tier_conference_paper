@@ -374,6 +374,7 @@
 + LLM Assisted Dual-View Awareness Framework for Smart Contract Vulnerability Detection
 + Detection of Cross-Channel Invocation Risks in Hyperledger Fabric
 + Code Generation of Smart Contracts with LLMs: A Case Study on Hyperledger Fabric
++ bBench: A Comprehensive Performance Benchmark for Blockchain Applications
 
 ## ETC
 + Bitcoin: A Peer-to-Peer Electronic Cash System
