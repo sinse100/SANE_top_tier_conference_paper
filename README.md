@@ -166,7 +166,6 @@
 
 ## CCS
 ### 2025
-+ Measuring and Augmenting Large Language Models for Solving Capture-the-Flag Challenges
 + **Forking the RANDAO: Manipulating Ethereum's Distributed Randomness Beacon (Distinguished Paper Award)**
 + SyRA: Sybil-Resilient Anonymous Signatures with Applications to Decentralized Identity
 + QV-net: Decentralized Self-Tallying Quadratic Voting with Maximal Ballot Secrecy
