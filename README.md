@@ -379,6 +379,10 @@
 + BlockLens: Detecting Malicious Transactions in Ethereum Using LLM Techniques
 + Jakiro: A Cross-modal Contrastive Learning Framework for Detecting Vulnerabilities in Smart Contracts
 
+## INFOCOM
+### 2026
++ MVCX: An Efficient Multi-Version-Based Concurrency Control Scheme for Cross-Chain Smart Contract Transactions
+
 ## ETC
 + Bitcoin: A Peer-to-Peer Electronic Cash System
 + Ethereum Whitepaper
