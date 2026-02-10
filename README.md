@@ -385,6 +385,7 @@
 + JiangZiya: Dependency-aware Smart Contract Migration for Scalable Sharded Blockchains
 + FC-GUARD: Enabling Anonymous yet Compliant Fiat-to-Cryptocurrency Exchanges
 + FBP-Eth2.0: A Fast Block Propagation in Ethereum 2.0 via Parallel Execution and Proactive Compaction
++ Eth2.0-NA: Modeling Message Propagation to Optimize Mesh Size in Ethereum 2.0 Network
 
 ## ETC
 + Bitcoin: A Peer-to-Peer Electronic Cash System
