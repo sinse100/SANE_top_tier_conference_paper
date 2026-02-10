@@ -19,7 +19,7 @@
 
 # Threat Modeling Celebrities
 + Adam Shostack
-+ Bruce Schneier
++ Bruce Schneier (Founder of Attack Tree)
 + Loren Kohnfelder (Founder of STRIDE)
 + Mina Deng (Founder of LINDDUN)
 
