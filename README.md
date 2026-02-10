@@ -382,6 +382,9 @@
 ## INFOCOM
 ### 2026
 + MVCX: An Efficient Multi-Version-Based Concurrency Control Scheme for Cross-Chain Smart Contract Transactions
++ JiangZiya: Dependency-aware Smart Contract Migration for Scalable Sharded Blockchains
++ FC-GUARD: Enabling Anonymous yet Compliant Fiat-to-Cryptocurrency Exchanges
++ FBP-Eth2.0: A Fast Block Propagation in Ethereum 2.0 via Parallel Execution and Proactive Compaction
 
 ## ETC
 + Bitcoin: A Peer-to-Peer Electronic Cash System
