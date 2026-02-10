@@ -55,6 +55,7 @@
 + Conference on Computer and Communications Security (CCS)
 + International Conference on Software Engineering (ICSE)
 + International Cryptology Conference (CRYPTO)
++ Annual Meeting of the Association for Computational Linguistics (ACL)
 + AAAI Conference on Artificial Intelligence (AAAI)
 + Conference on Knowledge Discovery and Data Mining (KDD)
 + International Conference on Learning Representations (ICLR)
