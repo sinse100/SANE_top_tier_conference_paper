@@ -24,6 +24,9 @@
 + Loren Kohnfelder (Founder of STRIDE)
 + Mina Deng (Founder of LINDDUN)
 
+# Etc Celebrities
++ Edmund Melson Clarke (Founder of Model Checking, Turing Awards Winner)
+
 # List of Top Tier Journal
 + [Distributed Ledger Technologies: Research and Practice](https://www.facebook.com/groups/141562709261263/posts/9544207665663340/?__cft__[0]=AZbHhB548tMZWGUQLGQMnU2o8fVo-h-Y4eI0F426F9q79B9SLbgYiAM7Y4UEX6W37FIMO_srX-SGLxfdSEPno21wMXZpW-IkEWf-3dA16VCHw62sJ_Dlw6vFzJ7MvLIl6DCaAy7CJ28Obk-UUMVaMy4WgeEm6SEx8ZeL9UX9UHq21ortFTESg8rv1fMX0UII8QolA9WN_LuniA6YhnVerkRc&__tn__=%2CO%2CP-R)
 + IEEE Transactions on Information Forensics and Security (TIFS)
