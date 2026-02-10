@@ -16,6 +16,7 @@
 + Victor Shoup
 + Hal Finney (Co-Developer of Bitcoin)
 + Shafi Goldwasser (Co-Founder of ZKP, Turing Awards Winner)
++ Leslie Lamport (Turing Awards Winner)
 
 # Threat Modeling Celebrities
 + Adam Shostack (Co-Founder of CVE, Author of 'Threat Modeling: Designing for Security', Lead Designer of Microsoft SDL Threat Modeling Tool)
