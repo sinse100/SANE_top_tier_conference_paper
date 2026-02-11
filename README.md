@@ -38,6 +38,9 @@
 + IEEE Transactions on Parallel and Distributed Systems (TPDS)
 + IEEE Transactions on Robotics (T-RO)
 
+# List of Predatory Conference (Do not choose from below)
++ WASET(World Academy of Science, Engineering and Technology)
+
 # List of Top Tier Conference
 ## Industrial Conference
 + DEFCON
