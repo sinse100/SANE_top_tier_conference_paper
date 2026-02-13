@@ -496,6 +496,8 @@
 #### IEEE European Symposium on Security and Privacy Workshops (EuroS&PW)
 + PILLAR: LINDDUN Privacy Threat Modeling Using LLMs
 ### 2023
+#### CyberSecurity in a DevOps Environment
++ Ctam: A Tool for Continuous Threat Analysis and Management
 
 
 # CI/CD Paper
