@@ -491,6 +491,13 @@
 ### 2024
 + MITRE ATT&CK: State of the Art and Way Forward
 
+## ETC
+### 2025
+#### IEEE European Symposium on Security and Privacy Workshops (EuroS&PW)
++ PILLAR: LINDDUN Privacy Threat Modeling Using LLMs
+### 2023
+
+
 # CI/CD Paper
 ## ISSRE
 ## 2025
