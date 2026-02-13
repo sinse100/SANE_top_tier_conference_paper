@@ -503,6 +503,8 @@
 + [HyperDiff: Computing Source Code Diffs at Scale](https://dl.acm.org/doi/pdf/10.1145/3611643.3616312)
 ## ASE
 ### 2024
++ [Research] Efficient Incremental Code Coverage Analysis for Regression Test Suites
++ [Research] Hybrid Regression Test Selection by Integrating File and Method Dependences
 + [Tool Demonstration] [flowR: A Static Program Slicer for R](https://dl.acm.org/doi/pdf/10.1145/3691620.3695359?download=true)
 + [Poster] [Static Dataflow Analysis of R Programs](https://zenodo.org/records/14575532/files/ase-2024-poster.pdf?download=1)
 ## ISSTA
