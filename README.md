@@ -494,13 +494,16 @@
 
 ## ETC
 ### 2025
-+ IEEE European Symposium on Security and Privacy Workshops (EuroS&PW)
-  + PILLAR: LINDDUN Privacy Threat Modeling Using LLMs
-+ Software and Systems Modeling 
-  + Run-time threat models for systematic and continuous risk assessment
+#### IEEE European Symposium on Security and Privacy Workshops (EuroS&PW)
++ PILLAR: LINDDUN Privacy Threat Modeling Using LLMs
+#### Software and Systems Modeling 
++ Run-time threat models for systematic and continuous risk assessment
+#### CoNEXT Workshop on Blockchain-Network Synergy
++ Efficient DoS Attack Defense Strategy for Blockchain Networks Based on Bayesian Attack Graph and Stackelberg Game
 ### 2023
-+ CyberSecurity in a DevOps Environment
-  + Ctam: A Tool for Continuous Threat Analysis and Management
+#### CyberSecurity in a DevOps Environment
++ Ctam: A Tool for Continuous Threat Analysis and Management
+
 
 
 # CI/CD Paper
