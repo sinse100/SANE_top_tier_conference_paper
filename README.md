@@ -493,13 +493,13 @@
 
 ## ETC
 ### 2025
-#### IEEE European Symposium on Security and Privacy Workshops (EuroS&PW)
-+ PILLAR: LINDDUN Privacy Threat Modeling Using LLMs
-#### Software and Systems Modeling 
-+ Run-time threat models for systematic and continuous risk assessment
++ IEEE European Symposium on Security and Privacy Workshops (EuroS&PW)
+  + PILLAR: LINDDUN Privacy Threat Modeling Using LLMs
++ Software and Systems Modeling 
+  + Run-time threat models for systematic and continuous risk assessment
 ### 2023
-#### CyberSecurity in a DevOps Environment
-+ Ctam: A Tool for Continuous Threat Analysis and Management
++ CyberSecurity in a DevOps Environment
+  + Ctam: A Tool for Continuous Threat Analysis and Management
 
 
 # CI/CD Paper
