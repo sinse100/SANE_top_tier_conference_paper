@@ -124,6 +124,7 @@
 + International Conference on Acoustics, Speech and Signal Processing (ICASSP)
 + Annual International Conference on Mobile Computing and Networking (MobiCom)
 + Symposium on Access Control Models and Technologies (SACMAT)
++ Conference on Emerging Network Experiment and Technology (CoNEXT)
 
 ### workshop
 + Workshop on the Security of Space and Satellite Systems (SpaceSec)
