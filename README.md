@@ -497,7 +497,7 @@
 #### IEEE European Symposium on Security and Privacy Workshops (EuroS&PW)
 + [PILLAR: LINDDUN Privacy Threat Modeling Using LLMs](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11129583&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
 #### Software and Systems Modeling 
-+ [Run-time threat models for systematic and continuous risk assessment(https://link.springer.com/content/pdf/10.1007/s10270-024-01242-5.pdf)
++ [Run-time threat models for systematic and continuous risk assessment](https://link.springer.com/content/pdf/10.1007/s10270-024-01242-5.pdf)
 #### CoNEXT Workshop on Blockchain-Network Synergy
 + [Efficient DoS Attack Defense Strategy for Blockchain Networks Based on Bayesian Attack Graph and Stackelberg Game](https://dl.acm.org/doi/pdf/10.1145/3769698.3771228)
 ### 2023
