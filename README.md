@@ -485,6 +485,8 @@
 + [Unveiling the critical attack path for implanting backdoors in supply chains: Practical experience from XZ](https://www.mroland.at/publications/2025-lins-cans/Lins_2025_CANS2025_XZAttackPath.pdf)
 
 ## MILCOM
+### 2025
++ [Automating Cybersecurity Risk Assessment for AI Systems in Military & Critical Infrastructure](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11310336&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
 ### 2024
 + [A game theory for resource-constrained tactical cyber operations](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=10773898&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
 
