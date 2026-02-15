@@ -484,6 +484,10 @@
 ### 2025
 + [Unveiling the critical attack path for implanting backdoors in supply chains: Practical experience from XZ](https://www.mroland.at/publications/2025-lins-cans/Lins_2025_CANS2025_XZAttackPath.pdf)
 
+## MILCOM
+### 2024
++ [A game theory for resource-constrained tactical cyber operations](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=10773898&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
+
 ## TSE
 ### 2025
 + [Privacy Impact Tree Analysis (PITA): A Tree-Based Privacy Threat Modeling Approach](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11015512&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
@@ -557,6 +561,5 @@
 ## MILCOM
 ### 2025
 + [A Game-Theoretic Framework for Dynamic Decoy Placement in Cyber Networks](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11310260&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
-+ [A game theory for resource-constrained tactical cyber operations](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=10773898&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
 ### 2022
 + [Do you really need to disguise normal servers as honeypots?](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=10017586&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
