@@ -490,7 +490,7 @@
 
 ## ACM COMPUTING SURVEY
 ### 2024
-+ MITRE ATT&CK: State of the Art and Way Forward
++ [MITRE ATT&CK: State of the Art and Way Forward](https://dl.acm.org/doi/pdf/10.1145/3687300)
 
 ## ETC
 ### 2025
