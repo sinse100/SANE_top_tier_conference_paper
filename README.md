@@ -557,5 +557,6 @@
 ## MILCOM
 ### 2025
 + [A Game-Theoretic Framework for Dynamic Decoy Placement in Cyber Networks](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11310260&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
++ [A game theory for resource-constrained tactical cyber operations](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=10773898&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
 ### 2022
 + [Do you really need to disguise normal servers as honeypots?](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=10017586&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20v)
