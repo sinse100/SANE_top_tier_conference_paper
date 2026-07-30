@@ -634,8 +634,15 @@
 + Recasting Type Hints from WebAssembly Contracts
 + Smart Contract Fuzzing Towards Profitable Vulnerabilities
 + SmartShot: Hunt Hidden Vulnerabilities in Smart Contracts using Mutable Snapshots
++ Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?
 + [Smart Contract Fuzzing Towards Profitable Vulnerabilities](https://dl.acm.org/doi/pdf/10.1145/3715720)
   + 본 논문의 연구진은 VERITE 도구 제안하면서 방대한 평가 데이터셋을 제공함. 추후 이 평가 데이터 셋을 활용가능할것으로 보임.
++ [Demonstrations] XGuard: Detecting Inconsistency Behaviors of Crosschain Bridges
+
+### 2024
++ Demystifying Invariant Effectiveness for Securing Smart Contracts
++ Efficiently Detecting Reentrancy Vulnerabilities in Complex Smart Contracts
++ SmartAxe: Detecting Cross-Chain Vulnerabilities in Bridge Smart Contracts via Fine-Grained Static Analysis
 
 ### 2023
 + [Demystifying the Composition and Code Reuse in Solidity Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3611643.3616270)
