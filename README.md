@@ -515,6 +515,19 @@
 + GenDetect: Generalizing Reactive Detection for Resilience Against Imitative DeFi Attack Cascade
 + [Poster] RAGas: Retrieval Augmented Gas Optimization for Smart Contracts with Continuous Knowledge Integration
 
+### 2025
++ An Empirical Study of Proxy Smart Contracts at the Ethereum Ecosystem Scale 
++ Automated Test Generation For Smart Contracts via On-Chain Test Case Augmentation and Migration
++ Chord: Towards a Unified Detection of Blockchain Transaction Parallelism BugsBlockchain
++ Code Cloning in Solidity Smart Contracts: Prevalence, Evolution, and Impact on Development
++ Combining Fine-Tuning and LLM-based Agents for Intuitive Smart Contract Auditing with Justifications
++ Definition and Detection of Centralization Defects in Smart Contracts
++ Demystifying and Detecting Cryptographic Defects in Ethereum Smart Contracts
++ Enhancing The Open Network: Definition and Automated Detection of Smart Contract Defects
++ FairChecker: Detecting Fund-stealing Bugs in DeFi Protocols via Fairness Validation
++ Fork State-Aware Differential Fuzzing for Blockchain Consensus Implementations
++ Hyperion: Unveiling DApp Inconsistencies using LLM and Dataflow-Guided Symbolic Execution
+
 ### 2024
 + [GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis](https://dl.acm.org/doi/pdf/10.1145/3597503.3639117)
 + [Revealing Hidden Threats: An Empirical Study of Library Misuse in Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3597503.3623335)
