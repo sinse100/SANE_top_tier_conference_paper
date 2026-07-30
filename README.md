@@ -553,6 +553,8 @@
 
 ## ASE
 
++ [Tools and Datasets] GoLiSA: An Advanced Static Analysis Tool for Detecting Potential Risks and Vulnerabilities in Hyperledger Fabric Smart Contracts
+
 ### 2025
 
 + [security/privacy]SSR: Safeguarding Staking Rewards by Defining and Detecting Logical Defects in DeFi Staking
@@ -954,7 +956,7 @@
 ## ASE
 
 ### 2025
-
++ [Tool and Datasets] xDECAF: An Extensible Data Flow Diagram Analysis Framework for Information Security
 + [Tool Demonstration Track] [FlowStrider: Low-friction Continuous Threat Modeling](https://elib.dlr.de/219762/1/FlowStrider_preprint.pdf)
 
 ### 2024
