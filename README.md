@@ -553,6 +553,16 @@
 
 ## ASE
 
+### 2026
++ Automated PoC Synthesis from On-Chain Attack Transactions
++ Breaking the Isolation: Coordinated Multi-agent Fuzzing for Smart Contracts with Multi-dimensional Objective Learning
++ Demystifying Solana Bots: From GitHub Blueprints to On-Chain Fingerprints
++ Evidence-Grounded Logic Vulnerability Detection for Smart Contracts via Runtime Context Reasoning
++ SecChain: Operationalizing Security Guidelines for Multi-agent Smart Contract Generation
++ Smart Contract Synthesis via Multi-modal Specifications
++ SmartPoC: Validating Smart Contract Vulnerability Findings through PoC Generation and Execution
++ SpecTrum: Specification-Guided Differential Fuzzing for Ethereum Consensus Clients
++ SPSYN: Synthesizing DeFi Price-Manipulation Exploits via Semantic Recovery and State-Guided Search
 + [Tools and Datasets] GoLiSA: An Advanced Static Analysis Tool for Detecting Potential Risks and Vulnerabilities in Hyperledger Fabric Smart Contracts
 
 ### 2025
