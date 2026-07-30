@@ -529,6 +529,19 @@
 + Hyperion: Unveiling DApp Inconsistencies using LLM and Dataflow-Guided Symbolic Execution
 
 ### 2024
++ Are We There Yet? Unraveling the State-of-the-Art Smart Contract Fuzzers
++ FlashSyn: Flash Loan Attack Synthesis via Counter Example Driven Approximation
++ Improving Smart Contract Security with Contrastive Learning-based Vulnerability Detection
++ PonziGuard: Detecting Ponzi Schemes on Ethereum with Contract Runtime Behavior Graph (CRBG)
++ PrettySmart: Detecting Permission Re-delegation Vulnerability for Token Behaviors in Smart Contracts
++ Safeguarding DeFi Smart Contracts against Oracle Deviations
++ SCVHunter: Smart Contract Vulnerability Detection Based on Heterogeneous Graph Attention Network
++ Smart Contract and DeFi Security Tools: Do They Meet the Needs of Practitioners?
++ Towards Finding Accounting Errors in Smart Contracts
++ Uncover the Premeditated Attacks: Detecting Exploitable Reentrancy Vulnerabilities by Identifying Attacker Contracts
++ Verifying Declarative Smart Contracts
++ When Contracts Meets Crypto: Exploring Developers' Struggles with Ethereum Cryptographic APIs
++ [Demonstration] Verifying and Displaying Move Smart Contract Source Code for the Sui Blockchain
 + [GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis](https://dl.acm.org/doi/pdf/10.1145/3597503.3639117)
 + [Revealing Hidden Threats: An Empirical Study of Library Misuse in Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3597503.3623335)
   + Smart Contract Library는 다른 스마트 컨트랙트에서 불러와 재사용할 수 있도록 개발된 스마트 컨트랙트로, Python에서 패키지를 불러와 사용하는 것과 유사한 개념
