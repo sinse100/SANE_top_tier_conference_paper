@@ -965,8 +965,10 @@
 
 ## ASE
 
-### 2025
+### 2026
 + [Tool and Datasets] xDECAF: An Extensible Data Flow Diagram Analysis Framework for Information Security
+
+### 2025
 + [Tool Demonstration Track] [FlowStrider: Low-friction Continuous Threat Modeling](https://elib.dlr.de/219762/1/FlowStrider_preprint.pdf)
 
 ### 2024
