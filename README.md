@@ -708,6 +708,11 @@
 + FBP-Eth2.0: A Fast Block Propagation in Ethereum 2.0 via Parallel Execution and Proactive Compaction
 + Eth2.0-NA: Modeling Message Propagation to Optimize Mesh Size in Ethereum 2.0 Network
 
+## ICDCS
+
+### 2025
++ Uncovering Hidden Proxy Smart Contracts for Finding Collision Vulnerabilities in Ethereum
+
 ## WWW
 
 ### 2026
