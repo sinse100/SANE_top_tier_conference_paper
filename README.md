@@ -287,6 +287,9 @@
 ### 2024
 + Using My Functions Should Follow My Checks: Understanding and Detecting Insecure OpenZeppelin Code in Smart Contracts
 
+### 2023
++ Proxy Hunting: Understanding and Characterizing Proxy-based Upgradeable Smart Contracts in Blockchains
+
 ## CCS
 
 ### 2025
@@ -525,6 +528,7 @@
 + [One Signature, Multiple Payments: Demystifying and Detecting Signature Replay Vulnerabilities in Smart Contracts](https://arxiv.org/pdf/2511.09134)
 + [Is My RPC Response Reliable? Detecting RPC Bugs in Blockchain Client under Context](https://arxiv.org/pdf/2601.21593)
 + GenDetect: Generalizing Reactive Detection for Resilience Against Imitative DeFi Attack Cascade
++ [New Ideas and Emerging Results] USCSA: Evolution-Aware Security Analysis for Proxy-Based Upgradeable Smart Contracts
 + [Poster] RAGas: Retrieval Augmented Gas Optimization for Smart Contracts with Continuous Knowledge Integration
 
 ### 2025
