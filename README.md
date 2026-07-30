@@ -475,6 +475,18 @@
 + [security/privacy] Automated Attack Synthesis for Constant Product Market Makers
 + [security/privacy] Copy-and-Paste? Identifying EVM-Inequivalent Code Smells in Multi-chain Reuse Contracts
 
+### 2024
++ DAppFL: Just-in-Time Fault Localization for Decentralized Applications in Web3
++ DeFort: Automatic Detection and Analysis of Price Manipulation Attacks in DeFi Applications
++ Empirical Study of Move Smart Contract Security: Introducing MoveScan for Enhanced Analysis
++ Following the “Thread”: Toward Finding Manipulatable Bottlenecks in Blockchain Clients
++ FunRedisp: Reordering Function Dispatch in Smart Contract to Reduce Invocation Gas Fees
++ Identifying Smart Contract Security Issues in Code Snippets from Stack Overflow
++ LENT-SSE: Leveraging Executed and Near Transactions for Speculative Symbolic Execution of Smart Contracts
++ Midas: Mining Profitable Exploits in On-Chain Smart Contracts via Feedback-Driven Fuzzing and Differential Analysis
++ Towards Understanding the Bugs in Solidity Compiler
++ [Tool Demonstrations] FunRedisp: A Function Redispatch Tool to Reduce Invocation Gas Fees in Solidity Smart Contracts
+ 
 ## ICST
 
 ### 2026
