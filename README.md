@@ -626,7 +626,14 @@
 + WalleTruth: Visual-oriented Software Testing for Web3 Wallet Browser Extensions
 
 ### 2025
-
++ Automated and Accurate Token Transfer Identification and Its Applications in Cryptocurrency Security
++ Clone Detection for Smart Contracts: How Far Are We?
++ Detecting Smart Contract State-Inconsistency Bugs via Flow Divergence and Multiplex Symbolic Execution
++ DiSCo: Towards Decompiling EVM Bytecode to Source Code using Large Language Models
++ LookAhead: Preventing DeFi Attacks via Unveiling Adversarial Contracts
++ Recasting Type Hints from WebAssembly Contracts
++ Smart Contract Fuzzing Towards Profitable Vulnerabilities
++ SmartShot: Hunt Hidden Vulnerabilities in Smart Contracts using Mutable Snapshots
 + [Smart Contract Fuzzing Towards Profitable Vulnerabilities](https://dl.acm.org/doi/pdf/10.1145/3715720)
   + 본 논문의 연구진은 VERITE 도구 제안하면서 방대한 평가 데이터셋을 제공함. 추후 이 평가 데이터 셋을 활용가능할것으로 보임.
 
