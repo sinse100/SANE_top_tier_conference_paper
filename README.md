@@ -320,7 +320,7 @@
 ### 2025
 
 + [security/privacy] Fast SNARK-based Non-Interactive Distributed Verifiable Random Function with Ethereum Compatibility
-+ [security/privacy] An Empirical Study on Cross-chain Transactions: Costs, Inconsistencies, and Activities
++ [security/privacy] [An Empirical Study on Cross-chain Transactions: Costs, Inconsistencies, and Activities](https://dl.acm.org/doi/pdf/10.1145/3708821.3733878)
 + [security/privacy] BIP32-Compatible Threshold Wallets
 + [security/privacy] VeRange: Verification-efficient Zero-knowledge Range Arguments with Transparent Setup for Blockchain Applications and More
 + [security/privacy] DTL: Data Tumbling Layer A Composable Unlinkability for Smart Contracts
