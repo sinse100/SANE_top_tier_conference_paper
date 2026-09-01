@@ -512,6 +512,9 @@
 + LLM Assisted Dual-View Awareness Framework for Smart Contract Vulnerability Detection
 + bBench: A Comprehensive Performance Benchmark for Blockchain Applications
 
+### 2024
++ Understanding and detecting privacy leakage vulnerabilities in hyperledger fabric chaincodes
+
 ### 2023
 + PSCVFinder: A Prompt-Tuning Based Framework for Smart Contract Vulnerability Detection
 + Efficient Avoidance of Vulnerabilities in Auto-completed Smart Contract Code Using Vulnerability-constrained Decoding
